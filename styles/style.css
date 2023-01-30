@@ -235,6 +235,7 @@ nav ul li.disabled:hover,
 .sidenav img {
   max-height: 100%;
   height: auto;
+  margin-top: 20px;
 }
 
 .sidenav ul a {
