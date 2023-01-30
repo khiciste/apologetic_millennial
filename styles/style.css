@@ -120,7 +120,7 @@ img.responsive-w-300px {
 }
 
 .wrap-left {
-  max-width: 300px;
+  max-width: 350px;
   height: auto;
   float: left;
   margin: 20px 20px 20px 0;
@@ -302,6 +302,10 @@ blockquote {
   padding-left: 15px;
   padding-right: 15px;
   font-style: italic;
+}
+
+.instagram-media {
+  margin-bottom: 10px;
 }
 
 button {
