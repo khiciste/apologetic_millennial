@@ -268,6 +268,10 @@ main h5 {
   font-size: 20px;
 }
 
+main h6 {
+  font-size: 18px;
+}
+
 main p {
   font-size: 18px;
 }
@@ -321,6 +325,7 @@ button {
   font-size: 20px;
   height: 48px;
   line-height: 48px;
+  margin: 15px;
   padding: 0 20px !important;
   text-align: center;
   transition: 
@@ -339,6 +344,15 @@ input[type='text'] {
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
 }
 
+.blogs-list li {
+  font-size: 18px;
+  margin-bottom: 10px; 
+}
+
+.blogs-list p {
+  font-size: 18px;
+  margin: 0;
+}
 
 
 
