@@ -17,12 +17,13 @@ html, body {
 }
 
 /* keeps footer at bottom  */
-article {
-    min-height: 100%;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    grid-template-columns: 100%;
+.sticky {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
 }
+
 
 /* functional css ==================================== */
 
@@ -36,7 +37,7 @@ article {
 }
 
 .communication { color: rgb(0, 185, 255); }
-.authority { color: rgb(255, 153, 0); }
+.authority { color: rgb(255, 153, 0) !important; }
 .loyalty { color: rgb(0, 220, 0); }
 .fairness { color: rgb(153, 0 , 255);}
 .harm { color: rgb(0, 0, 255); }
@@ -140,6 +141,10 @@ img.responsive-w-300px {
 
 
 /* BANNER ============================================= */
+
+header, main, footer {
+  width: 100vw;
+}
 
 #banner {
   color: rgb(243, 235, 225);
@@ -247,8 +252,8 @@ nav ul li.disabled:hover,
 /* MAIN =================================================== */
  
 main {
-  margin-left: 5vw;
-  margin-right: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
 
 main h1 {
@@ -302,7 +307,9 @@ blockquote {
 }
 
 #menu-button {
-  margin: 30px -30px 15px 15px;
+  position: relative;
+  right: 0;
+  margin: 30px 0 15px 15px;
   padding-left: 15px;
   padding-right: 15px;
   font-style: italic;
