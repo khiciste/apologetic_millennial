@@ -38,7 +38,8 @@ html, body {
 
 /* .communication { color: rgb(0, 185, 255); } */
 .authority { color: rgb(255, 153, 0) !important; }
-.loyalty { color: rgb(0, 220, 0); }
+/* .loyalty { color: rgb(0, 220, 0); } */
+.loyalty { color: rgb(0, 176, 80); }
 .fairness { color: rgb(153, 0 , 255);}
 .harm { color: rgb(0, 0, 255); }
 .sanctity { color: rgb(255, 0, 255); }
