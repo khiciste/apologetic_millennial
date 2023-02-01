@@ -36,7 +36,7 @@ html, body {
   justify-content: center;
 }
 
-.communication { color: rgb(0, 185, 255); }
+/* .communication { color: rgb(0, 185, 255); } */
 .authority { color: rgb(255, 153, 0) !important; }
 .loyalty { color: rgb(0, 220, 0); }
 .fairness { color: rgb(153, 0 , 255);}
@@ -281,7 +281,7 @@ main p {
   font-size: 18px;
 }
 
-main p a {
+main p a, li > a {
   color: rgb(0,112,192);
 }
 
