@@ -128,6 +128,10 @@
       <div class="col s12 l3 push right">
         <ul class="blogs-list">
           <li>
+            <p>01 Feb 2013</p>
+            <a href="#moral-foundations-101">Moral Foundations 101</a>
+          </li>
+          <li>
             <p>25 Jan 2023</p>
             <a href="#escaping-conversational-purgatory">Escaping Conversational Purgatory</a>
           </li>
@@ -160,75 +164,137 @@
 
     <!-- individual foundation modals ------------------------------------>
     <!-- communication modal -->
-    <div id="communication-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="communication">COMMUNICATION</h2>
-        <p></p>
+    <div id="modal-triggers">
+      <div id="communication-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="communication">COMMUNICATION</h2>
+          <p></p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
       </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+      <!-- authority / subversion modal -->
+      <div id="authority-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="authority">COMMUNICATION</h2>
+          <p>Authority/subversion: Related to our ability to determine who’s “in charge,” and form beneficial relationships up and down hierarchies. Helps us create and maintain orderly societies.</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
+      </div>
+      <!-- loyalty / betrayal modal -->
+      <div id="loyalty-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="loyalty">LOYALTY</h2>
+          <p>Loyalty/betrayal: Related to our history as tribal creatures, able to form coalitions that provide belonging and protection. A loyal tribe is a living tribe.</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
+      </div>
+      <!-- fairness / cheating modal -->
+      <div id="fairness-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="fairness">FAIRNESS</h2>
+          <p>Fairness/cheating: Related to “The Golden Rule” and our desire to create justice in an unfair world. “You scratch my back, I’ll scratch yours—or else.”</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
+      </div>
+      <!-- care / harm modal -->
+      <div id="harm-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="harm">HARM</h2>
+          <p>Care/harm: Related to our ability to form attachments with our offspring and help ensure their survival. It helps us to feel, dislike, and seek to minimize, the pain of others.</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
+      </div>
+      <!-- sanctity / degredation modal -->
+      <div id="sanctity-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="sanctity">SANCTITY</h2>
+          <p>Sanctity/degradation: Related to our tendency to be disgusted by things like excrement or rotting meat. Helps us avoid disease and infection. Progressed to include purity of mind as well as body.</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
+      </div>
+      <!-- liberty / oppression modal -->
+      <div id="freedom-modal" class="modal">
+        <div class="modal-content review">
+          <h2 class="freedom">FREEDOM</h2>
+          <p>Liberty/oppression: Related to our feelings of resentment of those who try to coerce, control, or dominate us in any way. Don’t tread on me.</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+        </div>
       </div>
     </div>
-    <!-- authority / subversion modal -->
-    <div id="authority-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="authority">COMMUNICATION</h2>
-        <p>Authority/subversion: Related to our ability to determine who’s “in charge,” and form beneficial relationships up and down hierarchies. Helps us create and maintain orderly societies.</p>
+
+    <!-- blog post TEMPLATE ====================================================-->
+    <!-- <div class="row"> -->
+      <div class="display-none col s12 offset-l1 l8">
+        <h2 id="______________________">______________________</h2>
+        <h6>______________________ | ___ min read</h6>
+        <!-- color code modal trigger -->
+        <button class="button modal-trigger" href="#color-code-modal">color code</button>
+        <p>
+
+        </p>
       </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
+
+    <!-- blog post 3 -------------------------->
+    <!-- <div class="row"> -->
+      <div class="col s12 offset-l1 l8">
+        <h2 id="moral-foundations-101">Moral Foundations 101</h2>
+        <h6>25 Jan 2023 | 2 min read</h6>
+        <!-- color code modal trigger -->
+        <button class="button modal-trigger" href="#color-code-modal">color code</button>
+        <p>
+          *Disclaimer-graphics are adapted from <a target="_blank" href="https://direct.mit.edu/daed/article/133/4/55/27470/Intuitive-ethics-how-innately-prepared-intuitions">Haidt and Joseph 2004</a> and <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>
+        </p>
+        <p>
+          I mentioned in my last post that Moral Foundations Theory (MFT) is the most compelling explanation I have ever encountered for the differences between liberals, conservatives, and libertarians. But as useful as it is, MFT is overwhelming and a bit academic. There’s no way around that—probably because it attempts to categorize <i>all</i> of the messiness that is human behavior. 
+        </p>
+        <p>
+          Rather than going piece by piece, I’m just going to rip the band-aid off and unload everything all at once. 
+        </p>
+        <p>
+          There are 6 foundations in total. Each is a response to a recurring evolutionary problem. For example, how do I know that you won’t <a class="fairness modal-trigger" href="#fairness-modal">screw me over</a> if I help you? This is the basis of the <a class="fairness modal-trigger" href="#fairness-modal">fairness foundation</a>. It motivates us to gossip about, punish, and avoid <a class="fairness modal-trigger" href="#fairness-modal">cheaters</a>. The table below illustrates each foundation.  
+        </p>
+        <h3>Moral Foundations Table</h3>
+        <p>
+          (Adapted from <a target="_blank" href="https://doi.org/10.1162/0011526042365555">Haidt and Joseph 2004)</a>
+        </p>
+        <p>
+          <img class="responsive" src="./images/moral_foundations_table.png" />
+        </p>
+        <p>
+          Phew. You’re almost there. One more graph and you’ll be ready to single-handedly solve America’s polarization.  
+        </p>
+        <p>
+          Now we know how the foundations came to be and what purpose they serve. What’s missing is how much the different parties value each foundation <i>in relation to each other</i>. <b>This is (arguably) the most useful part of MFT as it reveals the tradeoffs each side is willing to make to promote their preferred issues.</b> We’ll discuss this more in future posts, but the following graph combined with the table above is your “Rosetta Stone” for understanding politics.
+        </p>
+        <h3>Moral Foundations Graph</h3>
+        <p>(Adapted from <a target="_blaunk" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>) 
+        </p>
+        <p>*note-sanctity = purity </p>
+        <p>
+          <img class="responsive" src="./images/moral_foundations_graph.png" />
+        </p>
+        <p>
+          You made it.
+        </p>
+        <p>
+          This will all make more sense with practice. Once you get the hang of it, you may even come to understand your conservative uncle (or liberal son) and why they keep acting like such hypocrites. 
+        </p>
+        <p>_____________________________</p>
       </div>
-    </div>
-    <!-- loyalty / betrayal modal -->
-    <div id="loyalty-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="loyalty">LOYALTY</h2>
-        <p>Loyalty/betrayal: Related to our history as tribal creatures, able to form coalitions that provide belonging and protection. A loyal tribe is a living tribe.</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
-      </div>
-    </div>
-    <!-- fairness / cheating modal -->
-    <div id="fairness-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="fairness">FAIRNESS</h2>
-        <p>Fairness/cheating: Related to “The Golden Rule” and our desire to create justice in an unfair world. “You scratch my back, I’ll scratch yours—or else.”</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
-      </div>
-    </div>
-    <!-- care / harm modal -->
-    <div id="harm-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="harm">HARM</h2>
-        <p>Care/harm: Related to our ability to form attachments with our offspring and help ensure their survival. It helps us to feel, dislike, and seek to minimize, the pain of others.</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
-      </div>
-    </div>
-    <!-- sanctity / degredation modal -->
-    <div id="sanctity-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="sanctity">SANCTITY</h2>
-        <p>Sanctity/degradation: Related to our tendency to be disgusted by things like excrement or rotting meat. Helps us avoid disease and infection. Progressed to include purity of mind as well as body.</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
-      </div>
-    </div>
-    <!-- liberty / oppression modal -->
-    <div id="freedom-modal" class="modal">
-      <div class="modal-content review">
-        <h2 class="freedom">FREEDOM</h2>
-        <p>Liberty/oppression: Related to our feelings of resentment of those who try to coerce, control, or dominate us in any way. Don’t tread on me.</p>
-      </div>
-      <div class="modal-footer">
-        <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
-      </div>
-    </div>
 
 
     <!-- blog post 2 -------------------------->
@@ -319,6 +385,7 @@ There are 6 foundations in total, each triggered by different circumstances, dif
         <p>
 MFT will serve as the North star for all future posts, which will dive deeper into each foundation as well as some other aspects of human psychology. It will get easier to categorize different behaviors with their corresponding foundations. <b>Soon, you’ll develop the superpower that is the ability to have a political discussion that doesn’t end exactly where it started.</b> And with any luck, you’ll be on your way to being a productive neighbor instead of a moral enemy. 
         </p>
+        <p>_____________________________</p>
         <!-- ____________________________________
         <ol class="footnotes">
           <li>

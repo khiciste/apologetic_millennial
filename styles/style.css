@@ -36,6 +36,10 @@ html, body {
   justify-content: center;
 }
 
+.display-none {
+  display: none;
+}
+
 /* .communication { color: rgb(0, 185, 255); } */
 .authority { color: rgb(255, 153, 0) !important; }
 /* .loyalty { color: rgb(0, 220, 0); } */
@@ -44,6 +48,10 @@ html, body {
 .harm { color: rgb(0, 0, 255); }
 .sanctity { color: rgb(255, 0, 255); }
 .freedom { color: rgb(152, 0, 0); }
+
+.modal-trigger:hover {
+  font-weight: bold;
+}
 
 img.responsive-h-300px {
   max-height: 300px;
