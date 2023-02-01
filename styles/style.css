@@ -358,6 +358,7 @@ button {
   background-color: rgb(0,112,192);
   border: 2px solid rgb(0,112,192);
   cursor: pointer;
+  font-weight: bold;
 }
 
 input[type='text'] {
