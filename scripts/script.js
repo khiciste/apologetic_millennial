@@ -9,6 +9,21 @@ $(document).ready(function(){
     edge: 'right', // Choose the horizontal origin
     closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
   });
+
+  var i = 0;
+  var banner = 'Apologetic Millennial';
+  var $banner = document.getElementById('banner-h1');
+  // $banner.innerHTML = 'test';
+  var speed = 250;
+
+  function typeWriter() {
+    if (i < banner.length) {
+      $banner.innerHTML += banner.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+  typeWriter();
   
   // MODAL INITIALIZATION
   $('.modal').modal();
