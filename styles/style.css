@@ -166,6 +166,7 @@ header, main, footer {
 /*   opacity: 0.9; */
   padding: 10px;
   text-align: center;
+  min-height: 153.2px;
 }
 
 #banner h1 {
