@@ -23,9 +23,9 @@ $(document).ready(function(){
       setTimeout(typeWriter, speed);
     }
   }
-  window.onload = function() {
-    typeWriter();
-  }
+  // window.onload = function() {
+  //   typeWriter();
+  // }
   
   // MODAL INITIALIZATION
   $('.modal').modal();
