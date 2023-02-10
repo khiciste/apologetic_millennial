@@ -15,17 +15,6 @@ $(document).ready(function(){
   var $banner = document.getElementById('banner-h1');
   // $banner.innerHTML = 'test';
   var speed = 250;
-
-  function typeWriter() {
-    if (i < banner.length) {
-      $banner.innerHTML += banner.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-  // window.onload = function() {
-  //   typeWriter();
-  // }
   
   // MODAL INITIALIZATION
   $('.modal').modal();
