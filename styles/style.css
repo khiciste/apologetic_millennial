@@ -110,7 +110,7 @@ img.responsive-w-300px {
 }
 
 /* LARGE SCREENS & UP  */
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 993px) {
   
   .hide-on-large-and-up {
     display: none;
@@ -426,6 +426,13 @@ button {
 input[type='text'] {
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
 }
+
+@media only screen and (min-width: 993px) {
+}
+  .blogs-list {
+    margin-left: 20px;
+}
+
 
 .blogs-list li {
   font-size: 18px;
