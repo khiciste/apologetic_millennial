@@ -18,7 +18,105 @@
       <pubDate>08 Feb 2023</pubDate>
       <link>https://apologeticmillennial.com/blog.html</link>
       <description>
-        <![CDATA[New post! <a href="https://apologeticmillennial.com/blog.html">Apologetic Millennial</a>]]>
+        <![CDATA[
+          <!-- blog post 3 -------------------------->
+            <div class="col s12 offset-l1 l8">
+              <h2 id="my-deadbeat-neighbors">The Case Against My Deadbeat Neighbors</h2>
+              <p class="small">
+                Illustrations by 
+                <a target="_blank" href="https://www.instagram.com/sammetzlerart/">@sammetzlerart</a>
+              </p>
+              <h6>08 Feb 2023 | 3 min read</h6>
+              <!-- color code modal trigger -->
+              <button class="button modal-trigger" href="#color-code-modal">color code</button>
+              <div>
+                <img src="./images/boat_in_driveway.jpeg" class="responsive hide-on-large-and-up" />
+                <img class="responsive hide-on-med-and-down wrap-left" src="./images/boat_in_driveway.jpeg" />
+              <p class="wrap-text">
+                I live in on the first floor of an old house in Rochester, New York. It’s been repurposed into two apartments, so I share a driveway with my upstairs neighbors. It snows a lot in Rochester, which means that the driveway has to be shoveled fairly often. You wouldn’t think that someone could mess up the construction of a driveway, but the layout is, in a word: horrendous. The problem is that there’s only one lane through which you can enter the two-lane driveway. Unfortunately, the left side, my side, is not aligned with the entrance. So, when I pull in, I have to immediately turn the wheel like a sea captain whose ship has veered off course in a storm. All of this is exacerbated when it snows, and the already narrow entryway becomes even more snug. 
+              </p>
+              </div>
+              <div>
+                <img src="./images/freeloaders.jpeg" class="responsive hide-on-large-and-up" />
+                <img class="responsive hide-on-med-and-down wrap-left" src="./images/freeloaders.jpeg" />
+                <p class="wrap-text">  
+                  I could live with it if this was the only issue, but, here’s the thing—my neighbors don’t really shovel. And on the rare occasion that they do, they only clear their side of the driveway. Whenever I shovel, I have no choice but to do the shared entrance, along with their side, and mine. If this story made you feel a twinge of anger on my behalf, thank you, and congratulations—you’re human. We are very good at keeping tabs on those who attempt to <a class="fairness modal-trigger" href="#fairness-modal">take advantage of us</a>. This relates to something called <a target="_blank" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/reciprocal-altruism">reciprocal altruism</a>. It’s a fancy way of saying <i>you scratch my back, I’ll scratch yours… or else</i>. The fact that I was the only one doing the “scratching” violated our universal notion of <a class="fairness modal-trigger" href="#fairness-modal">fairness</a>. It unleashed a whole host of emotions in me, along with some expletive filled rants directed at my <a class="fairness modal-trigger" href="#fairness-modal">slacking</a> neighbors. 
+                </p>
+              </div>
+              <p>
+                A sense of fairness is found <a target="_blank" href="https://www.jstor.org/stable/20027945?seq=4#metadata_info_tab_contents">across cultures</a>, though we have different ideas about what that means in practice. Conservatives strongly endorse the idea that <a target="_blank" href="https://yourmorals.org/">people should not be shielded from the consequences of their actions</a>, or in the case of my neighbors, inaction. Nobody likes to have their efforts <a class="fairness modal-trigger" href="#fairness-modal">exploited</a>, but conservatives <i>really</i> don’t like this. In their minds, you get out what you put in—<i>that’s</i> fair. This is known as <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">proportionality</a>. Liberals agree with proportionality, but not as enthusiastically. They tend to think of fairness in terms of equality, sometimes <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">at the expense of proportionality</a> (i.e., socialism). A less extreme example would be those who advocate for a higher minimum wage, and any other policies aimed at making society more equal. Like many issues, this is a spectrum—not all liberals are socialists nor all conservatives cut-throat capitalists. 
+              </p>
+              <p>
+                In general, I find that I have less-maddening conversations with conservatives when I emphasize the <a class="fairness modal-trigger" href="#fairness-modal">“get out what you put in”/karma</a> angle of fairness. (This is the advice of Professor Jonathan Haidt, the creator of <a target="_blank" href="https://medium.com/@Apologetic_Millennial/moral-foundations-101-e1c7aa8eb20f">Moral Foundations Theory</a>). For their part, conservatives would do well to remember that equality matters, too—and that liberals will frequently think of fairness in those terms. Of course, all of this assumes that you’re even willing to consider another person’s concept of “fair.”
+              </p>
+              <p>
+                We may have different ideas about fairness and which tax rates or wages are reasonable, but we can all agree on this much: it’s time for my neighbors to start shoveling. 
+              </p>
+              <p class="small">
+                *For a deeper dive into the differences between proportionality and equality, start <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">here</a> 
+              </p>
+              <img class="responsive" src="./images/better_driveway.jpeg" />
+              <!-- separator -->
+              <p>_____________________________</p>
+            </div>
+
+          <!-- blog post 3 -------------------------->
+          <!-- <div class="row"> -->
+            <div class="col s12 offset-l1 l8">
+              <h2 id="moral-foundations-101">Moral Foundations 101</h2>
+              <h6>25 Jan 2023 | 2 min read</h6>
+              <!-- color code modal trigger -->
+              <button class="button modal-trigger" href="#color-code-modal">color code</button>
+              <p>
+                <span class="small">
+                *Disclaimer: Graphics are adapted from <a target="_blank" href="https://direct.mit.edu/daed/article/133/4/55/27470/Intuitive-ethics-how-innately-prepared-intuitions">Haidt and Joseph 2004</a> and <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>
+                </span>
+              </p>
+              <p>
+                I mentioned in my last post that Moral Foundations Theory (MFT) is the most compelling explanation I have ever encountered for the differences between liberals, conservatives, and libertarians. But as useful as it is, MFT is overwhelming and a bit academic. There’s no way around that—probably because it attempts to categorize <i>all</i> of the messiness that is human behavior. 
+              </p>
+              <p>
+                Rather than going piece by piece, I’m just going to rip the band-aid off and unload everything all at once. 
+              </p>
+              <p>
+                There are 6 foundations in total. Each is a response to a <a target="_blank" href="https://moralfoundations.org/">recurring evolutionary problem</a>. For example, how do I know that you won’t <a class="fairness modal-trigger" href="#fairness-modal">screw me over</a> if I help you? This is the basis of the <a class="fairness modal-trigger" href="#fairness-modal">fairness foundation</a>. It motivates us to <a target="_blank" href="https://www.salon.com/2013/11/03/reading_tmz_actually_just_a_sign_of_ones_humanity_partner/">gossip about</a>, <a target="_blank" href="https://www.npr.org/templates/story/story.php?storyId=5328549">punish</a>, and avoid <a class="fairness modal-trigger" href="#fairness-modal">cheaters</a>. The table below illustrates each foundation.  
+              </p>
+              <h3>Moral Foundations Table</h3>
+              <p>
+                <span class="small">
+                  Adapted from <a target="_blank" href="https://doi.org/10.1162/0011526042365555">Haidt and Joseph 2004</a>
+              </span>
+              </p>
+              <p>
+                <img class="responsive" src="./images/moral_foundations_table.png" />
+              </p>
+              <p>
+                Phew. You’re almost there. One more graph and you’ll be ready to single-handedly solve America’s polarization.  
+              </p>
+              <p>
+                Now we know how the foundations came to be and what purpose they serve. What’s missing is how much the different parties value each foundation <i>in relation to each other</i>. <b>This is (arguably) the most useful part of MFT as it reveals the tradeoffs each side is willing to make to promote their preferred issues.</b> We’ll discuss this more in future posts, but the following graph combined with the table above is your “Rosetta Stone” for understanding politics.
+              </p>
+              <h3>Moral Foundations Graph</h3>
+              <p>
+                <span class="small">
+                  Adapted from <a target="_blaunk" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>
+              </span>
+              </p>
+              <p>
+                <span class="small">*Note: sanctity = purity</span></p>
+              <p>
+                <img class="responsive" src="./images/moral_foundations_graph.png" />
+              </p>
+              <p>
+                You made it.
+              </p>
+              <p>
+                This will all make more sense with practice. Once you get the hang of it, you may even come to understand your conservative uncle (or liberal son) and why they keep acting like such hypocrites. 
+              </p>
+              <!-- separator -->
+              <p>_____________________________</p>
+            </div>
+        ]]>
       </description>
       <author>info@apologeticmillennial.com</author>
     </item>
