@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: Apologetic Millennial blog
+description: Welcome to my blog
+author: Mark Hasman
