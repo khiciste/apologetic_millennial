@@ -19,7 +19,7 @@
       <pubDate>08 Feb 2023</pubDate>
       <link>https://apologeticmillennial.com/blog.html#my-deadbeat-neighbors</link>
       <description></description>
-      <content>
+      <content:encoded>
         <![CDATA[
           <div class="col s12 offset-l1 l8">
             <h2 id="my-deadbeat-neighbors">The Case Against My Deadbeat Neighbors</h2>
@@ -54,7 +54,7 @@
             <img class="responsive" src="https://apologeticmillennial.com/images/better_driveway.jpeg" />
           </div>
         ]]>
-      </content>
+      </content:encoded>
       <author>info@apologeticmillennial.com</author>
     </item>
     <!-- blog post 3 -->
@@ -63,7 +63,7 @@
       <pubDate>02 Feb 2023</pubDate>
       <link>https://apologeticmillennial.com/blog.html#moral-foundations-101</link>
       <description></description>
-      <content>
+      <content:encoded>
         <![CDATA[
           <div class="col s12 offset-l1 l8">
             <h2 id="moral-foundations-101">Moral Foundations 101</h2>  
@@ -116,7 +116,7 @@
           </div>
           
         ]]>
-      </content>
+      </content:encoded>
       <author>info@apologeticmillennial.com</author>
     </item>
     <!-- blog post 2 -->
@@ -125,7 +125,7 @@
       <pubDate>25 Jan 2023</pubDate>
       <link>https://apologeticmillennial.com/blog.html#escaping-conversational-purgatory</link>
       <description></description>
-      <content>
+      <content:encoded>
         <![CDATA[
           <div class="col s12 offset-l1 l8">
             <h2 id="escaping-conversational-purgatory">Escaping Conversational Purgatory</h2>
@@ -210,7 +210,7 @@
             </p>
           </div>
         ]]>
-      </content>
+      </content:encoded>
       <author>info@apologeticmillennial.com</author>
     </item>
     <!-- blog post 1 -->
@@ -219,7 +219,7 @@
       <pubDate>14 Jan 2023</pubDate>
       <link>https://apologeticmillennial.com/blog.html#are-political-conversations-pointless</link>
       <description></description>
-      <content>
+      <content:encoded>
         <![CDATA[
           <div class="col s12 offset-l1 l8">
             <h2 id="are-political-conversations-pointless">Are Political Conversations Pointless?</h2>
@@ -248,7 +248,7 @@
           </div>
           
         ]]>
-      </content>
+      </content:encoded>
       <author>info@apologeticmillennial.com</author>
     </item>
   </channel>
