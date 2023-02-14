@@ -101,7 +101,7 @@ img.responsive-w-300px {
 /* Large devices (laptops/desktops, 992px and up) */
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 
-/* MEDIUM SCREENS & DOWN  */
+/* med & down  */
 @media only screen and (max-width: 992px) {
   
   .hide-on-med-and-down {
@@ -109,7 +109,7 @@ img.responsive-w-300px {
   }
 }
 
-/* LARGE SCREENS & UP  */
+/* LARGE & UP  */
 @media only screen and (min-width: 993px) {
   
   .hide-on-large-and-up {
@@ -141,7 +141,7 @@ img.responsive-w-300px {
 }
 
 /* LARGE & UP */
-@media only screen and (max-width: 992px) {
+@media only screen and (min-width: 993px) {
   .wrap-left {
     max-width: 350px;
     height: auto;
@@ -193,6 +193,14 @@ header, main, footer {
 * Browsers: last 4 version
 */
 
+/* med & down */
+@media only screen and (max-width: 992px) {
+  .typewriter {
+    white-space: normal; /* Keeps the content on a single line */
+  }
+}
+
+/* LARGE & UP */
 @media only screen and (min-width: 993px) {
   .typewriter {
     white-space: nowrap; /* Keeps the content on a single line */
@@ -200,12 +208,6 @@ header, main, footer {
   #banner h1 {
     margin-top: 38.5px;
     margin-bottom: 38.5px;
-  }
-}
-
-@media only screen and (max-width: 992px) {
-  .typewriter {
-    white-space: normal; /* Keeps the content on a single line */
   }
 }
 
@@ -437,6 +439,7 @@ input[type='text'] {
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
 }
 
+/* LARGE & UP */
 @media only screen and (min-width: 993px) {
 }
   .blogs-list {
