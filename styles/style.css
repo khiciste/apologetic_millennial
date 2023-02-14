@@ -133,18 +133,28 @@ img.responsive-w-300px {
   text-align: justify;
 }
 
-.wrap-left {
-  max-width: 350px;
-  height: auto;
-  float: left;
-  margin: 20px 20px 20px 0;
+/* med & down */
+@media only screen and (max-width: 992px) {
+  .blog-img {
+    max-width: 100%;
+  }
 }
 
-.wrap-right {
-  max-width: 320px;
-  height: auto;
-  float: right;
-  margin: 20px 0 20px 20px;
+/* LARGE & UP */
+@media only screen and (max-width: 992px) {
+  .wrap-left {
+    max-width: 350px;
+    height: auto;
+    float: left;
+    margin: 20px 20px 20px 0;
+  }
+  
+  .wrap-right {
+    max-width: 320px;
+    height: auto;
+    float: right;
+    margin: 20px 0 20px 20px;
+  }
 }
 
 #ltud-book-large-screens {
