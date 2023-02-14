@@ -133,13 +133,6 @@ img.responsive-w-300px {
   text-align: justify;
 }
 
-/* med & down */
-@media only screen and (max-width: 992px) {
-  .blog-img {
-    max-width: 100%;
-  }
-}
-
 /* LARGE & UP */
 @media only screen and (min-width: 993px) {
   .wrap-left {
