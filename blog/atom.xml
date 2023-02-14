@@ -9,6 +9,12 @@ layout: feed
 	<link href="https://apologeticmillennial.com/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>https://apologeticmillennial.com/blog</id>
+	<image>
+		<url>https://apologeticmillennial.com/images/apologetic_millennial_logo_no_bg.png</url>
+		<title>Apologetic Millennial</title>
+		<link>https://apologeticmillennial.com/</link>
+		<description>An Apologetic Millennial's thoughts on various subjects, moral and diverting</description>
+	</image>
 	<author>
 		<name>Mark Hasman</name>
 		<email>mhasman1@gmail.com</email>
