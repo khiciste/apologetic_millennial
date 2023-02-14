@@ -24,8 +24,7 @@ layout: feed
 			<image>
 				<url>https://apologeticmillennial.com/images/apologetic_millennial_logo_no_bg.png</url>
 				<title>Apologetic Millennial</title>
-				<link>https://apologeticmillennial.com/</link>
-				<description>An Apologetic Millennial's thoughts on various subjects, moral and diverting</description>
+				<link>https://apologeticmillennial.com</link>
 			</image>
 		</entry>
 	{% endfor %}
