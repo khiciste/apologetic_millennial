@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -8,9 +7,9 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
-  <channel>
+<channel>
 	<title>Apologetic Millennial</title>
-	<atom:link href="https://apologeticmillennial.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://apologeticmillennial.com/feed" rel="self" type="application/rss+xml" />
 	<link>https://apologeticmillennial.com</link>
 	<description>Apologetic Millennial</description>
 	<image>
@@ -21,251 +20,110 @@
 	<lastBuildDate>Sun, 12 Feb 2023 03:29:07 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
+	hourly </sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 
 <item>
 	<title>The Case Against My Deadbeat Neighbors</title>
 	<link>https://apologeticmillennial.com/blog#my-deadbeat-neighbors</link>
-	<dc:creator><![CDATA[Apologetic Millennial]]></dc:creator>
+	<dc:creator><![CDATA[ Apologetic Millennial ]]></dc:creator>
 	<pubDate>Wed, 08 Feb 2023 11:30:00 +0000</pubDate>
-	<category><![CDATA[Uncategorized]]></category>
-	<guid isPermaLink="true">https://apologeticmillennial.com/blog.html#my-deadbeat-neighbors</guid>
-	<description><![CDATA[How does it feel when someone in the group isn’t pulling their weight? Learn more about the fairness foundation and how it differs between liberals and conservatives.]]></description>
-
-    <content:encoded><![CDATA[
-        <h2 id="my-deadbeat-neighbors">The Case Against My Deadbeat Neighbors</h2>
-        <p class="small">Illustrations by
-          <a target="_blank" href="https://www.instagram.com/sammetzlerart/">
-            @sammetzlerart
-          </a>
-        </p>
-        <h6>08 Feb 2023 | 3 min read</h6>
-        <p>
-          <a target="_blank" href="https://apologeticmillennial.com/blog#my-deadbeat-neighbors">For an interactive color-coded blog click here</a>
-        </p>
-        <img src="./images/boat_in_driveway.jpeg" class="responsive hide-on-large-and-up" />
-		    <p class="wrap-text">
-          I live on the first floor of an old house in Rochester, New York. It’s been repurposed into two apartments, so I share a driveway with my upstairs neighbors. It snows a lot in Rochester, which means that the driveway has to be shoveled fairly often. You wouldn’t think that someone could mess up the construction of a driveway, but the layout is, in a word: horrendous. The problem is that there’s only one lane through which you can enter the two-lane driveway. Unfortunately, the left side, my side, is not aligned with the entrance. So, when I pull in, I have to immediately turn the wheel like a sea captain whose ship has veered off course in a storm. All of this is exacerbated when it snows, and the already narrow entryway becomes even more snug. 
-        </p>
-        <img src="./images/freeloaders.jpeg" class="responsive hide-on-large-and-up" />
-        <p class="wrap-text">  
-            I could live with it if this was the only issue, but, here’s the thing—my neighbors don’t really shovel. And on the rare occasion that they do, they only clear their side of the driveway. Whenever I shovel, I have no choice but to do the shared entrance, along with their side, and mine. If this story made you feel a twinge of anger on my behalf, thank you, and congratulations—you’re human. We are very good at keeping tabs on those who attempt to <a class="fairness modal-trigger" href="#fairness-modal">take advantage of us</a>. This relates to something called <a target="_blank" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/reciprocal-altruism">reciprocal altruism</a>. It’s a fancy way of saying <i>you scratch my back, I’ll scratch yours… or else</i>. The fact that I was the only one doing the “scratching” violated our universal notion of <a class="fairness modal-trigger" href="#fairness-modal">fairness</a>. It unleashed a whole host of emotions in me, along with some expletive filled rants directed at my <a class="fairness modal-trigger" href="#fairness-modal">slacking</a> neighbors. 
-        </p>
-        <p>
-          A sense of fairness is found <a target="_blank" href="https://www.jstor.org/stable/20027945?seq=4#metadata_info_tab_contents">across cultures</a>, though we have different ideas about what that means in practice. Conservatives strongly endorse the idea that <a target="_blank" href="https://yourmorals.org/">people should not be shielded from the consequences of their actions</a>, or in the case of my neighbors, inaction. Nobody likes to have their efforts <a class="fairness modal-trigger" href="#fairness-modal">exploited</a>, but conservatives <i>really</i> don’t like this. In their minds, you get out what you put in—<i>that’s</i> fair. This is known as <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">proportionality</a>. Liberals agree with proportionality, but not as enthusiastically. They tend to think of fairness in terms of equality, sometimes <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">at the expense of proportionality</a> (i.e., socialism). A less extreme example would be those who advocate for a higher minimum wage, and any other policies aimed at making society more equal. Like many issues, this is a spectrum—not all liberals are socialists nor all conservatives cut-throat capitalists. 
-        </p>
-        <p>
-          In general, I find that I have less-maddening conversations with conservatives when I emphasize the <a class="fairness modal-trigger" href="#fairness-modal">“get out what you put in”/karma</a> angle of fairness. (This is the advice of Professor Jonathan Haidt, the creator of <a target="_blank" href="https://medium.com/@Apologetic_Millennial/moral-foundations-101-e1c7aa8eb20f">Moral Foundations Theory</a>). For their part, conservatives would do well to remember that equality matters, too—and that liberals will frequently think of fairness in those terms. Of course, all of this assumes that you’re even willing to consider another person’s concept of “fair.”
-        </p>
-        <p>
-          We may have different ideas about fairness and which tax rates or wages are reasonable, but we can all agree on this much: it’s time for my neighbors to start shoveling. 
-        </p>
-        <p class="small">
-          *For a deeper dive into the differences between proportionality and equality, start <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">here</a> 
-        </p>
-        <img class="responsive" src="./images/better_driveway.jpeg" />
-    ]]></content:encoded>
+	<guid>https://apologeticmillennial.com/blog.html#my-deadbeat-neighbors</guid>
+	<description><![CDATA[ How does it feel when someone in the group isn’t pulling their weight? Learn more about the fairness foundation and how it differs between liberals and conservatives. ]]></description>
+	<content:encoded><![CDATA[
+		<h6>Illustrations by <a target="_blank" href="https://www.instagram.com/sammetzlerart/"> @sammetzlerart </a> </h6>
+		<p> <a target="_blank" href="https://apologeticmillennial.com/blog#my-deadbeat-neighbors">For an interactive color-coded blog click here</a> </p>
+		<img src="https://apologeticmillennial.com/images/boat_in_driveway.jpeg" />
+		<p> I live on the first floor of an old house in Rochester, New York. It’s been repurposed into two apartments, so I share a driveway with my upstairs neighbors. It snows a lot in Rochester, which means that the driveway has to be shoveled fairly often. You wouldn’t think that someone could mess up the construction of a driveway, but the layout is, in a word: horrendous. The problem is that there’s only one lane through which you can enter the two-lane driveway. Unfortunately, the left side, my side, is not aligned with the entrance. So, when I pull in, I have to immediately turn the wheel like a sea captain whose ship has veered off course in a storm. All of this is exacerbated when it snows, and the already narrow entryway becomes even more snug. </p>
+		<img src="https://apologeticmillennial.com/images/freeloaders.jpeg" class="responsive hide-on-large-and-up" />
+		<p> I could live with it if this was the only issue, but, here’s the thing—my neighbors don’t really shovel. And on the rare occasion that they do, they only clear their side of the driveway. Whenever I shovel, I have no choice but to do the shared entrance, along with their side, and mine. If this story made you feel a twinge of anger on my behalf, thank you, and congratulations—you’re human. We are very good at keeping tabs on those who attempt to <a class="fairness modal-trigger" href="#fairness-modal">take advantage of us</a>. This relates to something called <a target="_blank" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/reciprocal-altruism">reciprocal altruism</a>. It’s a fancy way of saying <i>you scratch my back, I’ll scratch yours… or else</i>. The fact that I was the only one doing the “scratching” violated our universal notion of <a class="fairness modal-trigger" href="#fairness-modal">fairness</a>. It unleashed a whole host of emotions in me, along with some expletive filled rants directed at my <a class="fairness modal-trigger" href="#fairness-modal">slacking</a> neighbors. </p>
+		<p> A sense of fairness is found <a target="_blank" href="https://www.jstor.org/stable/20027945?seq=4#metadata_info_tab_contents">across cultures</a>, though we have different ideas about what that means in practice. Conservatives strongly endorse the idea that <a target="_blank" href="https://yourmorals.org/">people should not be shielded from the consequences of their actions</a>, or in the case of my neighbors, inaction. Nobody likes to have their efforts <a class="fairness modal-trigger" href="#fairness-modal">exploited</a>, but conservatives <i>really</i> don’t like this. In their minds, you get out what you put in—<i>that’s</i> fair. This is known as <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">proportionality</a>. Liberals agree with proportionality, but not as enthusiastically. They tend to think of fairness in terms of equality, sometimes <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">at the expense of proportionality</a> (i.e., socialism). A less extreme example would be those who advocate for a higher minimum wage, and any other policies aimed at making society more equal. Like many issues, this is a spectrum—not all liberals are socialists nor all conservatives cut-throat capitalists. </p>
+		<p> In general, I find that I have less-maddening conversations with conservatives when I emphasize the <a class="fairness modal-trigger" href="#fairness-modal">“get out what you put in”/karma</a> angle of fairness. (This is the advice of Professor Jonathan Haidt, the creator of <a target="_blank" href="https://medium.com/@Apologetic_Millennial/moral-foundations-101-e1c7aa8eb20f">Moral Foundations Theory</a>). For their part, conservatives would do well to remember that equality matters, too—and that liberals will frequently think of fairness in those terms. Of course, all of this assumes that you’re even willing to consider another person’s concept of “fair.” </p>
+		<p> We may have different ideas about fairness and which tax rates or wages are reasonable, but we can all agree on this much: it’s time for my neighbors to start shoveling. </p>
+		<p> *For a deeper dive into the differences between proportionality and equality, start <a target="_blank" href="https://ideas.time.com/2012/10/08/the-new-culture-war-ove-fairness/">here</a> </p>
+		<img class="responsive" src="https://apologeticmillennial.com/images/better_driveway.jpeg" /> ]]></content:encoded>
 </item>
+
 
 <item>
 	<title>Moral Foundations 101</title>
 	<link>https://apologeticmillennial.com/blog#moral-foundations-101</link>
-	<dc:creator><![CDATA[Apologetic Millennial]]></dc:creator>
+	<dc:creator><![CDATA[ Apologetic Millennial ]]></dc:creator>
 	<pubDate>Wed, 01 Feb 2023 11:30:00 +0000</pubDate>
-	<category><![CDATA[Uncategorized]]></category>
-	<guid isPermaLink="true">https://apologeticmillennial.com/blog.html#moral-foundations-101</guid>
-	<description><![CDATA[Just the basics to jumpstart you understanding of the other sides values, and your own.]]></description>
-
-    <content:encoded><![CDATA[
-	      <h2 id="moral-foundations-101">Moral Foundations 101</h2>
-        <h6>01 Feb 2023 | 2 min read</h6>
-        <p>
-          <a target="_blank" href="https://apologeticmillennial.com/blog#moral-foundations-101">For an interactive color-coded version of this blog click here</a>
-        </p>
-        <p>
-          <span class="small">
-          *Disclaimer: Graphics are adapted from <a target="_blank" href="https://direct.mit.edu/daed/article/133/4/55/27470/Intuitive-ethics-how-innately-prepared-intuitions">Haidt and Joseph 2004</a> and <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>
-          </span>
-        </p>
-        <p>
-          I mentioned in my last post that Moral Foundations Theory (MFT) is the most compelling explanation I have ever encountered for the differences between liberals, conservatives, and libertarians. But as useful as it is, MFT is overwhelming and a bit academic. There’s no way around that—probably because it attempts to categorize <i>all</i> of the messiness that is human behavior. 
-        </p>
-        <p>
-          Rather than going piece by piece, I’m just going to rip the band-aid off and unload everything all at once. 
-        </p>
-        <p>
-          There are 6 foundations in total. Each is a response to a <a target="_blank" href="https://moralfoundations.org/">recurring evolutionary problem</a>. For example, how do I know that you won’t <a class="fairness modal-trigger" href="#fairness-modal">screw me over</a> if I help you? This is the basis of the <a class="fairness modal-trigger" href="#fairness-modal">fairness foundation</a>. It motivates us to <a target="_blank" href="https://www.salon.com/2013/11/03/reading_tmz_actually_just_a_sign_of_ones_humanity_partner/">gossip about</a>, <a target="_blank" href="https://www.npr.org/templates/story/story.php?storyId=5328549">punish</a>, and avoid <a class="fairness modal-trigger" href="#fairness-modal">cheaters</a>. The table below illustrates each foundation.  
-        </p>
-        <h3>Moral Foundations Table</h3>
-        <p>
-          <span class="small">
-            Adapted from <a target="_blank" href="https://doi.org/10.1162/0011526042365555">Haidt and Joseph 2004</a>
-        </span>
-        </p>
-        <p>
-          <img class="responsive" src="./images/moral_foundations_table.png" />
-        </p>
-        <p>
-          Phew. You’re almost there. One more graph and you’ll be ready to single-handedly solve America’s polarization.  
-        </p>
-        <p>
-          Now we know how the foundations came to be and what purpose they serve. What’s missing is how much the different parties value each foundation <i>in relation to each other</i>. <b>This is (arguably) the most useful part of MFT as it reveals the tradeoffs each side is willing to make to promote their preferred issues.</b> We’ll discuss this more in future posts, but the following graph combined with the table above is your “Rosetta Stone” for understanding politics.
-        </p>
-        <h3>Moral Foundations Graph</h3>
-        <p>
-          <span class="small">
-            Adapted from <a target="_blaunk" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a>
-        </span>
-        </p>
-        <p>
-          <span class="small">*Note: sanctity = purity</span></p>
-        <p>
-          <img class="responsive" src="./images/moral_foundations_graph.png" />
-        </p>
-        <p>
-          You made it.
-        </p>
-        <p>
-          This will all make more sense with practice. Once you get the hang of it, you may even come to understand your conservative uncle (or liberal son) and why they keep acting like such hypocrites. 
-        </p>
-    ]]></content:encoded>
+	<guid>https://apologeticmillennial.com/blog.html#moral-foundations-101</guid>
+	<description><![CDATA[ Just the basics to jumpstart you understanding of the other sides values, and your own. ]]></description>
+	<content:encoded><![CDATA[
+		<p> <a target="_blank" href="https://apologeticmillennial.com/blog#moral-foundations-101">For an interactive color-coded version of this blog click here</a> </p>
+		<h6> *Disclaimer: Graphics are adapted from <a target="_blank" href="https://direct.mit.edu/daed/article/133/4/55/27470/Intuitive-ethics-how-innately-prepared-intuitions">Haidt and Joseph 2004</a> and <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a></h6>
+		<p> I mentioned in my last post that Moral Foundations Theory (MFT) is the most compelling explanation I have ever encountered for the differences between liberals, conservatives, and libertarians. But as useful as it is, MFT is overwhelming and a bit academic. There’s no way around that—probably because it attempts to categorize <i>all</i> of the messiness that is human behavior. </p> <p> Rather than going piece by piece, I’m just going to rip the band-aid off and unload everything all at once. </p>
+		<p> There are 6 foundations in total. Each is a response to a <a target="_blank" href="https://moralfoundations.org/">recurring evolutionary problem</a>. For example, how do I know that you won’t <a class="fairness modal-trigger" href="#fairness-modal">screw me over</a> if I help you? This is the basis of the <a class="fairness modal-trigger" href="#fairness-modal">fairness foundation</a>. It motivates us to <a target="_blank" href="https://www.salon.com/2013/11/03/reading_tmz_actually_just_a_sign_of_ones_humanity_partner/">gossip about</a>, <a target="_blank" href="https://www.npr.org/templates/story/story.php?storyId=5328549">punish</a>, and avoid <a class="fairness modal-trigger" href="#fairness-modal">cheaters</a>. The table below illustrates each foundation. </p>
+		<h5>Moral Foundations Table</h5>
+		<h6> Adapted from <a target="_blank" href="https://doi.org/10.1162/0011526042365555">Haidt and Joseph 2004</a> </span> </h6>
+		<img class="responsive" src="https://apologeticmillennial.com/images/moral_foundations_table.png" />
+		<p> Phew. You’re almost there. One more graph and you’ll be ready to single-handedly solve America’s polarization. </p> <p> Now we know how the foundations came to be and what purpose they serve. What’s missing is how much the different parties value each foundation <i>in relation to each other</i>. <b>This is (arguably) the most useful part of MFT as it reveals the tradeoffs each side is willing to make to promote their preferred issues.</b> We’ll discuss this more in future posts, but the following graph combined with the table above is your “Rosetta Stone” for understanding politics. </p>
+		<h5>Moral Foundations Graph</h5>
+		<h6> Adapted from <a target="_blaunk" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3424229/#:~:text=Libertarians%20appear%20to%20have%20a,that%20supersedes%20other%20moral%20considerations.">Iyer et al, 2010</a></h6>
+		<h6>*Note: sanctity = purity</span></h6> 
+		<p> <img class="responsive" src="https://apologeticmillennial.com/images/moral_foundations_graph.png" /> </p>
+		<p> You made it. </p>
+		<p> This will all make more sense with practice. Once you get the hang of it, you may even come to understand your conservative uncle (or liberal son) and why they keep acting like such hypocrites. </p> ]]></content:encoded>
 </item>
+
 
 <item>
 	<title>Escaping Conversational Purgatory</title>
 	<link>https://apologeticmillennial.com/blog#escaping-conversational-purgatory</link>
-	<dc:creator><![CDATA[Apologetic Millennial]]></dc:creator>
+	<dc:creator><![CDATA[ Apologetic Millennial ]]></dc:creator>
 	<pubDate>Wed, 25 Jan 2023 11:30:00 +0000</pubDate>
-	<category><![CDATA[Uncategorized]]></category>
-	<guid isPermaLink="true">https://apologeticmillennial.com/blog#escaping-conversational-purgatory</guid>
-	<description><![CDATA[It is possible to have a political debate without it ending with someone shouting or crying. It’ll take practice but it’s worth it.]]></description>
-
-    <content:encoded><![CDATA[
-	<h2 id="escaping-conversational-purgatory">Escaping Conversational Purgatory</h2>
-        <h6>25 Jan 2023 | 5 min read</h6>
-        <p>
-          <a target="_blank" href="https://apologeticmillennial.com/blog#escaping-conversational-purgatory">For an interactive color-coded version of this blog click here</a>
-        </p>
-        <p>
-          I spent my first year out of college working as a substitute teacher. Part of this job involved getting called at 5 AM:
-        </p>
-        <figure>
-          <blockquote>
-            “Good morning, Mark, do you want to teach 7th grade science today?” 
-          </blockquote>
-        </figure>
-        <p>
-          <i>I don’t want to teach 7th grade anything… on any day. I was still holding out hope for a high school teaching job.</i>
-        </p>
-        <figure>
-          <blockquote>
-            “…Sure.”
-          </blockquote>
-        </figure>
-        <p>
-          Being a substitute teacher was like being at war with myself. I used to be the kid in the back of the room making the sub’s life hell. Karma is real. The best part of my day as a sub was when I got to read during free periods. Shockingly, I didn’t last long as a teacher. 
-        </p>
-        <p>
-          While subbing was basically babysitting with worse pay and more responsibilities, I am grateful for that time in my life. I found myself constantly reading about psychology and I discovered an endless fascination with human behavior. It’s partly what led me to change careers, pursuing my master’s in public health. 
-        </p>
-        <p>
-          It was also during this time that <b>I realized I was suffering from a sort oflearned helplessness whenever I engaged in political conversations.</b> This can happen when someone continuously faces a negative situation which they believe they have no control over—they become conditioned to <a target="_blank" href="https://www.psychologytoday.com/us/basics/learned-helplessness">stop trying</a>. In some ways, this is an entirely logical response to our repeatedly awful interactions. When was the last time you left a debate saying, <i>“You know, I think I really opened their eyes on the whole gun issue.”</i>
-        </p>
-        <p>
-          In hindsight, <b>the problem wasn’t that they weren’t hearing me, it was that I never changed my tactics.</b> I was essentially testing the definition of insanity.
-        </p>
-        <p>
-          The good news is that it is possible to escape this purgatory. With the right resources/tools, a person can reframe the conversation and thus change the interaction. <b>Enter Moral Foundations Theory.</b>
-        </p>
-        <p>
-          Don’t be fooled by its nondescript title. Moral Foundations Theory (MFT) remains the single most compelling explanation I have ever encountered for the differences between Liberals and Conservatives. 
-        </p>
-        <p>
-          Several years ago, Professor Jonathan Haidt and colleagues developed a survey to measure people’s responses to a series of moral quandaries (i.e., if someone used their <a class="loyalty modal-trigger" href="#loyalty-modal">nation’s flag</a> to <a class="sanctity modal-trigger" href="#sanctity-modal">clean their toilet</a> and there were no witnesses, <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">is that wrong?</a>). Those who self-identified as Liberal, Conservative, or Libertarian showed remarkably consistent trends in their answers. While this may be unsurprising, even obvious, the <b>responses to these questions provide a scientific blueprint for making sense of “the other side.”</b> These results helped to shape Moral Foundations Theory and culminated with Professor Haidt’s popular book: <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777/ref=sr_1_1">The Righteous Mind-Why Good People are Divided by Politics and Religion</a>, who can be seen <a target="_blank" href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">here</a> describing MFT in his TED talk.
-        </p>
-        <p>
-          MFT is admittedly complex. After all, it <b>provides a framework to unpack and categorize the many grey areas of morality and human behavior.</b> But, once you get the hang of it, few things are more illuminating. Words and actions once foreign, start to make sense. 
-        </p>
-        <p>
-          Before diving into MFT, let’s establish 2 things first:
-        </p>
-        <ol>
-          <li>
-            Nature “vs.” Nurture
-          </li>
-          <p>
-            When it comes to humans, most of our behaviors are the result of nature and/or nurture. Some actions are innate—we come into the world <a target="_blank" href="https://www.amazon.com/Blank-Slate-Modern-Denial-Nature/dp/0142003344">not as blank slates</a>, but pre-loaded with “software” that helps us survive. This is nature at work. A baby doesn’t have to be taught how to cry. And as any parent can tell you, some babies are just born fussier than others. Sorry, Mom. 
-        </p>
-        <p>
-          Fortunately, we also have the ability to change and acquire new behaviors based on our experience and environment. As we get older, we learn strategies besides crying to satisfy our needs. This is nurture at work. Nurture is also what trains parents for the hostage negotiation skills required for child-rearing. 
-        </p>
-          <li>
-            <a target="_blank" href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.108.4.814">
-              Intuition first, Reasoning second</a>
-          </li>
-        <p>
-          One thing that we can’t really change is the way that our brains process information. We are highly emotional beings, mostly because the <a target="_blank" href="https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/">emotional parts of our brain work faster than the rational parts</a>. You may have heard this referred to as “System 1 Thinking,” which occurs rapidly and <a target="_blank" href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1">outside of our conscious awareness</a>.
-        </p>
-        <p>
-          The trouble is that <b>fast doesn’t always mean accurate</b> (i.e., jumping out of our seat during a scary movie when we’re in no real danger). But sometimes it is better to be fast than correct—think about a skittish animal fleeing from any hint of danger. They’re more likely to survive and pass on their genes than one that hangs around to find out if that noise was <i>really</i> a threat. So, rapid emotions can be very useful, even if they aren’t always reliable. 
-        </p>
-        <p>
-          Even more useful, is the ability for the rational parts of the brain (System 2 Thinking) to eventually <b>re-evaluate and overrule</b> our emotional System 1. That girl crawling out of the well in “The Ring” isn’t actually going to murder me. These capabilities come online after a certain amount of <a target="_blank" href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=1&ContentID=3051">brain development</a>, experience, and practice.
-        </p>
-        <p>
-          But we’re not actually that good at using System 2 reasoning to uncover objective truth. <b>More often, we have a gut reaction and then <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777">look for evidence to reassure ourselves (and others) that it was correct</a>.</b> <i>See, [points to random person on Twitter], Hillary IS running a human trafficking ring out of the basement of a pizza shop!!</i> We do this despite System 1’s questionable success rate. And as we use reason to build our case for why our intuition is “right,” it becomes incredibly difficult to decipher what’s actual truth from what we feel is true. It makes sense that morality/politics has been described as <b><a target="_blank" href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01IAUGC5S/ref=sr_1_1">“a battle to determine whose ‘right’ is righter.”</b></a> This is why political conversations feel so hopeless. 
-        </p>
-      </ol>
-      <p>
-        MFT is a white flag in this seemingly futile battle. Nothing else made me question the parameters, motivations, and purpose of this conflict more effectively. <b>Beyond war, or even peace, MFT offers a third option: productivity.</b>
-        </p>
-        <p>
-          There are 6 foundations in total, each triggered by different circumstances, different evolutionary challenges (i.e., cooperating in groups without getting screwed over). We each have the capacity to make use of all 6 but, depending which party you identify with, you will have very strong feelings about which foundations we should prioritize to build a healthy society. 
-        </p>
-        <p>
-          MFT will serve as the North star for all future posts, which will dive deeper into each foundation as well as some other aspects of human psychology. It will get easier to categorize different behaviors with their corresponding foundations. <b>Soon, you’ll develop the superpower that is the ability to have a political discussion that doesn’t end exactly where it started.</b> And with any luck, you’ll be on your way to being a productive neighbor instead of a moral enemy. 
-        </p>
-    ]]></content:encoded>
+	<guid>https://apologeticmillennial.com/blog#escaping-conversational-purgatory</guid>
+	<description><![CDATA[ It is possible to have a political debate without it ending with someone shouting or crying. It’ll take practice but it’s worth it. ]]></description>
+	<content:encoded><![CDATA[
+		<p> <a target="_blank" href="https://apologeticmillennial.com/blog#escaping-conversational-purgatory">For an interactive color-coded version of this blog click here</a> </p>
+		<p> I spent my first year out of college working as a substitute teacher. Part of this job involved getting called at 5 AM: </p>
+		<figure> <blockquote> “Good morning, Mark, do you want to teach 7th grade science today?” </blockquote> </figure>
+		<p> <i>I don’t want to teach 7th grade anything… on any day. I was still holding out hope for a high school teaching job.</i> </p>
+		<figure> <blockquote> “…Sure.” </blockquote> </figure>
+		<p> Being a substitute teacher was like being at war with myself. I used to be the kid in the back of the room making the sub’s life hell. Karma is real. The best part of my day as a sub was when I got to read during free periods. Shockingly, I didn’t last long as a teacher. </p> <p> While subbing was basically babysitting with worse pay and more responsibilities, I am grateful for that time in my life. I found myself constantly reading about psychology and I discovered an endless fascination with human behavior. It’s partly what led me to change careers, pursuing my master’s in public health. </p>
+		<p> It was also during this time that <b>I realized I was suffering from a sort oflearned helplessness whenever I engaged in political conversations.</b> This can happen when someone continuously faces a negative situation which they believe they have no control over—they become conditioned to <a target="_blank" href="https://www.psychologytoday.com/us/basics/learned-helplessness">stop trying</a>. In some ways, this is an entirely logical response to our repeatedly awful interactions. When was the last time you left a debate saying, <i>“You know, I think I really opened their eyes on the whole gun issue.”</i> </p>
+		<p> In hindsight, <b>the problem wasn’t that they weren’t hearing me, it was that I never changed my tactics.</b> I was essentially testing the definition of insanity. </p>
+		<p> The good news is that it is possible to escape this purgatory. With the right resources/tools, a person can reframe the conversation and thus change the interaction. <b>Enter Moral Foundations Theory.</b> </p>
+		<p> Don’t be fooled by its nondescript title. Moral Foundations Theory (MFT) remains the single most compelling explanation I have ever encountered for the differences between Liberals and Conservatives. </p>
+		<p> Several years ago, Professor Jonathan Haidt and colleagues developed a survey to measure people’s responses to a series of moral quandaries (i.e., if someone used their <a class="loyalty modal-trigger" href="#loyalty-modal">nation’s flag</a> to <a class="sanctity modal-trigger" href="#sanctity-modal">clean their toilet</a> and there were no witnesses, <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">is that wrong?</a>). Those who self-identified as Liberal, Conservative, or Libertarian showed remarkably consistent trends in their answers. While this may be unsurprising, even obvious, the <b>responses to these questions provide a scientific blueprint for making sense of “the other side.”</b> These results helped to shape Moral Foundations Theory and culminated with Professor Haidt’s popular book: <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777/ref=sr_1_1">The Righteous Mind-Why Good People are Divided by Politics and Religion</a>, who can be seen <a target="_blank" href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">here</a> describing MFT in his TED talk. </p>
+		<p> MFT is admittedly complex. After all, it <b>provides a framework to unpack and categorize the many grey areas of morality and human behavior.</b> But, once you get the hang of it, few things are more illuminating. Words and actions once foreign, start to make sense. </p>
+		<p> Before diving into MFT, let’s establish 2 things first: </p>
+			<ol>
+				<li> Nature “vs.” Nurture </li>
+					<p> When it comes to humans, most of our behaviors are the result of nature and/or nurture. Some actions are innate—we come into the world <a target="_blank" href="https://www.amazon.com/Blank-Slate-Modern-Denial-Nature/dp/0142003344">not as blank slates</a>, but pre-loaded with “software” that helps us survive. This is nature at work. A baby doesn’t have to be taught how to cry. And as any parent can tell you, some babies are just born fussier than others. Sorry, Mom. </p>
+					<p> Fortunately, we also have the ability to change and acquire new behaviors based on our experience and environment. As we get older, we learn strategies besides crying to satisfy our needs. This is nurture at work. Nurture is also what trains parents for the hostage negotiation skills required for child-rearing. </p>
+				<li> <a target="_blank" href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.108.4.814"> Intuition first, Reasoning second</a> </li>
+					<p> One thing that we can’t really change is the way that our brains process information. We are highly emotional beings, mostly because the <a target="_blank" href="https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/">emotional parts of our brain work faster than the rational parts</a>. You may have heard this referred to as “System 1 Thinking,” which occurs rapidly and <a target="_blank" href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1">outside of our conscious awareness</a>. </p>
+					<p> The trouble is that <b>fast doesn’t always mean accurate</b> (i.e., jumping out of our seat during a scary movie when we’re in no real danger). But sometimes it is better to be fast than correct—think about a skittish animal fleeing from any hint of danger. They’re more likely to survive and pass on their genes than one that hangs around to find out if that noise was <i>really</i> a threat. So, rapid emotions can be very useful, even if they aren’t always reliable. </p>
+					<p> Even more useful, is the ability for the rational parts of the brain (System 2 Thinking) to eventually <b>re-evaluate and overrule</b> our emotional System 1. That girl crawling out of the well in “The Ring” isn’t actually going to murder me. These capabilities come online after a certain amount of <a target="_blank" href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=1&ContentID=3051">brain development</a>, experience, and practice. </p>
+					<p> But we’re not actually that good at using System 2 reasoning to uncover objective truth. <b>More often, we have a gut reaction and then <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777">look for evidence to reassure ourselves (and others) that it was correct</a>.</b> <i>See, [points to random person on Twitter], Hillary IS running a human trafficking ring out of the basement of a pizza shop!!</i> We do this despite System 1’s questionable success rate. And as we use reason to build our case for why our intuition is “right,” it becomes incredibly difficult to decipher what’s actual truth from what we feel is true. It makes sense that morality/politics has been described as <b><a target="_blank" href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01IAUGC5S/ref=sr_1_1">“a battle to determine whose ‘right’ is righter.”</b></a> This is why political conversations feel so hopeless. </p></ol> 
+		<p> MFT is a white flag in this seemingly futile battle. Nothing else made me question the parameters, motivations, and purpose of this conflict more effectively. <b>Beyond war, or even peace, MFT offers a third option: productivity.</b> </p>
+		<p> There are 6 foundations in total, each triggered by different circumstances, different evolutionary challenges (i.e., cooperating in groups without getting screwed over). We each have the capacity to make use of all 6 but, depending which party you identify with, you will have very strong feelings about which foundations we should prioritize to build a healthy society. </p>
+		<p> MFT will serve as the North star for all future posts, which will dive deeper into each foundation as well as some other aspects of human psychology. It will get easier to categorize different behaviors with their corresponding foundations. <b>Soon, you’ll develop the superpower that is the ability to have a political discussion that doesn’t end exactly where it started.</b> And with any luck, you’ll be on your way to being a productive neighbor instead of a moral enemy. </p> ]]></content:encoded>
 </item>
+
 
 <item>
 	<title>Are Political Conversations Pointless?</title>
 	<link>https://apologeticmillennial.com/blog#are-political-conversations-pointless</link>
-	<dc:creator><![CDATA[Apologetic Millennial]]></dc:creator>
+	<dc:creator><![CDATA[ Apologetic Millennial ]]></dc:creator>
 	<pubDate>Mon, 16 Jan 2023 11:30:00 +0000</pubDate>
-	<category><![CDATA[Uncategorized]]></category>
-	<guid isPermaLink="true">https://apologeticmillennial.com/blog#are-political-conversations-pointless</guid>
-	<description><![CDATA[It may feel like political conversations are pointless given today’s politicization and polarization. It may also be that you need to try something different.]]></description>
-
-    <content:encoded><![CDATA[
-        <h2 id="are-political-conversations-pointless">Are Political Conversations Pointless?</h2>
-        <h6>16 Jan 2023 | 2 min read</h6>
-        <p>
-          <a target="_blank" href="https://apologeticmillennial.com/blog#are-political-conversations-pointless">For an interactive color-coded version of this blog click here</a>
-        </p>
-        <p>
-          We suck at talking politics. Everyone knows this. But why? Do we avoid talking politics because we’re bad at it, or are we bad at it because we avoid it? <b>For the last three years, I’ve been writing a book in an attempt to find the answers to these questions.</b>
-        </p>
-        <p>
-          Though I was raised Conservative, I would describe myself as politically agnostic for the first twenty years of my life. In high school, I would sometimes argue the Conservative perspective, but that was just because I liked to debate and because I knew it got under my openly Liberal history teacher’s skin. This continued in college, at least initially. I soon realized that I had never learned how to think for myself. <b>I never thought about what I believed, let alone <i>why.</i></b> The second question proved much harder to answer. 
-        </p>
-        <p>
-          I spent my time as an undergrad in the (very) Liberal town of Ithaca, NY. During this time, I learned how to speak and act like a Liberal. The more I understood about the Left, the less I understood about the Right. Naturally, this resulted in increasingly worse conversations when I came home for the holidays. <b>Christmas dinner looked like the set of “The Five” on FOX News:</b> a bunch of Conservatives and one token Liberal.  
-        </p>
-        <p>
-          Many of our disagreements spilled over into email and Facebook. I still remember the chaos that ensued when I posted a picture of myself at a Bernie Sanders rally. My comments section was a mixture of approval from fellow Millennials and outrage from those who took my attendance as proof of my full-on endorsement of socialism—and <a class="authority modal-trigger" href="#authority-modal">betrayal</a><a class="loyalty modal-trigger" href="#loyalty-modal">of my roots</a>. While I found it (slightly) easier to keep my cool during online exchanges, these conversations ultimately shared the same fate as those I had in person. 
-        </p>
-        <p>
-          In the several years that followed, I toggled back and forth between two “strategies:” not engaging or engaging poorly. I think that my experience represents the political matrix in which many of us find ourselves trapped. <b>Firing off snarky responses from the safety of my keyboard was admittedly better for my blood pressure (and my ego), but it wasn’t an actual solution.</b> It’s also not practical. The real test is being able to keep your wits about you when it’s most difficult: in real-time, and in person. For years, this was about as likely as me explaining the plot of Game of Thrones to a toddler. <b></b>Then I discovered something that forever changed the way that I thought about politics.</b> 
-        </p>
-        <p>
-          This blog represents my ongoing journey to have a political conversation that doesn’t end with someone (me) shouting and/or crying. If you’ve already taken the red or blue pill, this may not be for you. If you want to escape the matrix—<b>if you’re curious what we’re <i>really</i> talking about when we talk about politics</b>—read on. 
-        </p>
-    ]]></content:encoded>
+	<guid>https://apologeticmillennial.com/blog#are-political-conversations-pointless</guid>
+	<description><![CDATA[ It may feel like political conversations are pointless given today’s politicization and polarization. It may also be that you need to try something different. ]]></description>
+	<content:encoded><![CDATA[
+		<p> <a target="_blank" href="https://apologeticmillennial.com/blog#are-political-conversations-pointless">For an interactive color-coded version of this blog click here</a> </p>
+		<p> We suck at talking politics. Everyone knows this. But why? Do we avoid talking politics because we’re bad at it, or are we bad at it because we avoid it? <b>For the last three years, I’ve been writing a book in an attempt to find the answers to these questions.</b> </p>
+		<p> Though I was raised Conservative, I would describe myself as politically agnostic for the first twenty years of my life. In high school, I would sometimes argue the Conservative perspective, but that was just because I liked to debate and because I knew it got under my openly Liberal history teacher’s skin. This continued in college, at least initially. I soon realized that I had never learned how to think for myself. <b>I never thought about what I believed, let alone <i>why.</i></b> The second question proved much harder to answer. </p>
+		<p> I spent my time as an undergrad in the (very) Liberal town of Ithaca, NY. During this time, I learned how to speak and act like a Liberal. The more I understood about the Left, the less I understood about the Right. Naturally, this resulted in increasingly worse conversations when I came home for the holidays. <b>Christmas dinner looked like the set of “The Five” on FOX News:</b> a bunch of Conservatives and one token Liberal. </p>
+		<p> Many of our disagreements spilled over into email and Facebook. I still remember the chaos that ensued when I posted a picture of myself at a Bernie Sanders rally. My comments section was a mixture of approval from fellow Millennials and outrage from those who took my attendance as proof of my full-on endorsement of socialism—and <a class="authority modal-trigger" href="#authority-modal">betrayal</a><a class="loyalty modal-trigger" href="#loyalty-modal">of my roots</a>. While I found it (slightly) easier to keep my cool during online exchanges, these conversations ultimately shared the same fate as those I had in person. </p>
+		<p> In the several years that followed, I toggled back and forth between two “strategies:” not engaging or engaging poorly. I think that my experience represents the political matrix in which many of us find ourselves trapped. <b>Firing off snarky responses from the safety of my keyboard was admittedly better for my blood pressure (and my ego), but it wasn’t an actual solution.</b> It’s also not practical. The real test is being able to keep your wits about you when it’s most difficult: in real-time, and in person. For years, this was about as likely as me explaining the plot of Game of Thrones to a toddler. <b></b>Then I discovered something that forever changed the way that I thought about politics.</b> </p>
+		<p> This blog represents my ongoing journey to have a political conversation that doesn’t end with someone (me) shouting and/or crying. If you’ve already taken the red or blue pill, this may not be for you. If you want to escape the matrix—<b>if you’re curious what we’re <i>really</i> talking about when we talk about politics</b>—read on. </p> ]]></content:encoded>
 </item>
 
-</channel>
 
+</channel>
 </rss>
