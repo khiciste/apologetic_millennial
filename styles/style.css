@@ -451,7 +451,7 @@ input[type='text'] {
 }
 
 .brand-stamp {
-  margin: 20px;
+  margin: 20px 20px 20px 0;
   width: 100px;
   height: auto;
 }
