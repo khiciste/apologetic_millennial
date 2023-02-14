@@ -1,5 +1,7 @@
 name: Kevin Cleland, web dev
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - /blog/atom.xml
 feed:
   path: /blog/atom.atom
