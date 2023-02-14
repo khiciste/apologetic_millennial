@@ -450,7 +450,10 @@ input[type='text'] {
   margin: 0;
 }
 
-
+.post-brand-stamp {
+  max-width: 200px;
+  height: auto;
+}
 
 /*  FOOTER ===========================================  */
 
