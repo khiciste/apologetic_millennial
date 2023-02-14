@@ -3,4 +3,33 @@ layout: post
 title: "Are Political Conversations Pointless?"
 date: 2023-01-16
 ---
-TEST
+    <!-- blog post 1 ---------------------------------------------------------------->
+      <div class="col s12 offset-l1 l8">
+        <h2 id="are-political-conversations-pointless">Are Political Conversations Pointless?</h2>
+        <h6>16 Jan 2023 | 2 min read</h6>
+        <!-- color code modal trigger -->
+        <button class="button modal-trigger" href="#color-code-modal">color code</button>
+        <p>
+          We suck at talking politics. Everyone knows this. But why? Do we avoid talking politics because we’re bad at it, or are we bad at it because we avoid it? <b>For the last three years, I’ve been writing a book in an attempt to find the answers to these questions.</b>
+        </p>
+        <p>
+          Though I was raised Conservative, I would describe myself as politically agnostic for the first twenty years of my life. In high school, I would sometimes argue the Conservative perspective, but that was just because I liked to debate and because I knew it got under my openly Liberal history teacher’s skin. This continued in college, at least initially. I soon realized that I had never learned how to think for myself. <b>I never thought about what I believed, let alone <i>why.</i></b> The second question proved much harder to answer. 
+        </p>
+        <p>
+          I spent my time as an undergrad in the (very) Liberal town of Ithaca, NY. During this time, I learned how to speak and act like a Liberal. The more I understood about the Left, the less I understood about the Right. Naturally, this resulted in increasingly worse conversations when I came home for the holidays. <b>Christmas dinner looked like the set of “The Five” on FOX News:</b> a bunch of Conservatives and one token Liberal.  
+        </p>
+        <p>
+          Many of our disagreements spilled over into email and Facebook. I still remember the chaos that ensued when I posted a picture of myself at a Bernie Sanders rally. My comments section was a mixture of approval from fellow Millennials and outrage from those who took my attendance as proof of my full-on endorsement of socialism—and <a class="authority modal-trigger" href="#authority-modal">betrayal</a><a class="loyalty modal-trigger" href="#loyalty-modal">of my roots</a>. While I found it (slightly) easier to keep my cool during online exchanges, these conversations ultimately shared the same fate as those I had in person. 
+        </p>
+        <p>
+          In the several years that followed, I toggled back and forth between two “strategies:” not engaging or engaging poorly. I think that my experience represents the political matrix in which many of us find ourselves trapped. <b>Firing off snarky responses from the safety of my keyboard was admittedly better for my blood pressure (and my ego), but it wasn’t an actual solution.</b> It’s also not practical. The real test is being able to keep your wits about you when it’s most difficult: in real-time, and in person. For years, this was about as likely as me explaining the plot of Game of Thrones to a toddler. <b></b>Then I discovered something that forever changed the way that I thought about politics.</b> 
+        </p>
+        <p>
+          This blog represents my ongoing journey to have a political conversation that doesn’t end with someone (me) shouting and/or crying. If you’ve already taken the red or blue pill, this may not be for you. If you want to escape the matrix—<b>if you’re curious what we’re <i>really</i> talking about when we talk about politics</b>—read on. 
+        </p>
+
+        <br />
+        <br />
+        <br />
+
+      </div>
