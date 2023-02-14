@@ -1,0 +1,109 @@
+---
+layout: post
+title: "Escaping Conversational Purgatory"
+date: 2014-01-25
+---
+    <!-- blog post 2 -------------------------->
+      <div class="col s12 offset-l1 l8">
+        <h2 id="escaping-conversational-purgatory">Escaping Conversational Purgatory</h2>
+        <h6>25 Jan 2023 | 5 min read</h6>
+        <!-- color code modal trigger -->
+        <button class="button modal-trigger" href="#color-code-modal">color code</button>
+        <p>
+          I spent my first year out of college working as a substitute teacher. Part of this job involved getting called at 5 AM:
+        </p>
+        <figure>
+          <blockquote>
+            “Good morning, Mark, do you want to teach 7th grade science today?” 
+          </blockquote>
+        </figure>
+        <p>
+          <i>I don’t want to teach 7th grade anything… on any day. I was still holding out hope for a high school teaching job.</i>
+        </p>
+        <figure>
+          <blockquote>
+            “…Sure.”
+          </blockquote>
+        </figure>
+        <p>
+          Being a substitute teacher was like being at war with myself. I used to be the kid in the back of the room making the sub’s life hell. Karma is real. The best part of my day as a sub was when I got to read during free periods. Shockingly, I didn’t last long as a teacher. 
+        </p>
+        <p>
+          While subbing was basically babysitting with worse pay and more responsibilities, I am grateful for that time in my life. I found myself constantly reading about psychology and I discovered an endless fascination with human behavior. It’s partly what led me to change careers, pursuing my master’s in public health. 
+        </p>
+        <p>
+          It was also during this time that <b>I realized I was suffering from a sort oflearned helplessness whenever I engaged in political conversations.</b> This can happen when someone continuously faces a negative situation which they believe they have no control over—they become conditioned to <a target="_blank" href="https://www.psychologytoday.com/us/basics/learned-helplessness">stop trying</a>. In some ways, this is an entirely logical response to our repeatedly awful interactions. When was the last time you left a debate saying, <i>“You know, I think I really opened their eyes on the whole gun issue.”</i>
+        </p>
+        <p>
+          In hindsight, <b>the problem wasn’t that they weren’t hearing me, it was that I never changed my tactics.</b> I was essentially testing the definition of insanity.
+        </p>
+        <p>
+          The good news is that it is possible to escape this purgatory. With the right resources/tools, a person can reframe the conversation and thus change the interaction. <b>Enter Moral Foundations Theory.</b>
+        </p>
+        <p>
+          Don’t be fooled by its nondescript title. Moral Foundations Theory (MFT) remains the single most compelling explanation I have ever encountered for the differences between Liberals and Conservatives. 
+        </p>
+        <p>
+          Several years ago, Professor Jonathan Haidt and colleagues developed a survey to measure people’s responses to a series of moral quandaries (i.e., if someone used their <a class="loyalty modal-trigger" href="#loyalty-modal">nation’s flag</a> to <a class="sanctity modal-trigger" href="#sanctity-modal">clean their toilet</a> and there were no witnesses, <a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">is that wrong?</a>). Those who self-identified as Liberal, Conservative, or Libertarian showed remarkably consistent trends in their answers. While this may be unsurprising, even obvious, the <b>responses to these questions provide a scientific blueprint for making sense of “the other side.”</b> These results helped to shape Moral Foundations Theory and culminated with Professor Haidt’s popular book: <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777/ref=sr_1_1">The Righteous Mind-Why Good People are Divided by Politics and Religion</a>, who can be seen <a target="_blank" href="https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives">here</a> describing MFT in his TED talk.
+        </p>
+        <p>
+          MFT is admittedly complex. After all, it <b>provides a framework to unpack and categorize the many grey areas of morality and human behavior.</b> But, once you get the hang of it, few things are more illuminating. Words and actions once foreign, start to make sense. 
+        </p>
+        <p>
+          Before diving into MFT, let’s establish 2 things first:
+        </p>
+        <ol>
+          <li>
+            Nature “vs.” Nurture
+          </li>
+          <p>
+            When it comes to humans, most of our behaviors are the result of nature and/or nurture. Some actions are innate—we come into the world <a target="_blank" href="https://www.amazon.com/Blank-Slate-Modern-Denial-Nature/dp/0142003344">not as blank slates</a>, but pre-loaded with “software” that helps us survive. This is nature at work. A baby doesn’t have to be taught how to cry. And as any parent can tell you, some babies are just born fussier than others. Sorry, Mom. 
+        </p>
+        <p>
+          Fortunately, we also have the ability to change and acquire new behaviors based on our experience and environment. As we get older, we learn strategies besides crying to satisfy our needs. This is nurture at work. Nurture is also what trains parents for the hostage negotiation skills required for child-rearing. 
+        </p>
+          <li>
+            <a target="_blank" href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.108.4.814">
+              Intuition first, Reasoning second</a>
+          </li>
+        <p>
+          One thing that we can’t really change is the way that our brains process information. We are highly emotional beings, mostly because the <a target="_blank" href="https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/">emotional parts of our brain work faster than the rational parts</a>. You may have heard this referred to as “System 1 Thinking,” which occurs rapidly and <a target="_blank" href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1">outside of our conscious awareness</a>.
+        </p>
+        <p>
+          The trouble is that <b>fast doesn’t always mean accurate</b> (i.e., jumping out of our seat during a scary movie when we’re in no real danger). But sometimes it is better to be fast than correct—think about a skittish animal fleeing from any hint of danger. They’re more likely to survive and pass on their genes than one that hangs around to find out if that noise was <i>really</i> a threat. So, rapid emotions can be very useful, even if they aren’t always reliable. 
+        </p>
+        <p>
+          Even more useful, is the ability for the rational parts of the brain (System 2 Thinking) to eventually <b>re-evaluate and overrule</b> our emotional System 1. That girl crawling out of the well in “The Ring” isn’t actually going to murder me. These capabilities come online after a certain amount of <a target="_blank" href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=1&ContentID=3051">brain development</a>, experience, and practice.
+        </p>
+        <p>
+          But we’re not actually that good at using System 2 reasoning to uncover objective truth. <b>More often, we have a gut reaction and then <a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777">look for evidence to reassure ourselves (and others) that it was correct</a>.</b> <i>See, [points to random person on Twitter], Hillary IS running a human trafficking ring out of the basement of a pizza shop!!</i> We do this despite System 1’s questionable success rate. And as we use reason to build our case for why our intuition is “right,” it becomes incredibly difficult to decipher what’s actual truth from what we feel is true. It makes sense that morality/politics has been described as <b><a target="_blank" href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01IAUGC5S/ref=sr_1_1">“a battle to determine whose ‘right’ is righter.”</b></a> This is why political conversations feel so hopeless. 
+        </p>
+      </ol>
+      <p>
+        MFT is a white flag in this seemingly futile battle. Nothing else made me question the parameters, motivations, and purpose of this conflict more effectively. <b>Beyond war, or even peace, MFT offers a third option: productivity.</b>
+        </p>
+        <p>
+          There are 6 foundations in total, each triggered by different circumstances, different evolutionary challenges (i.e., cooperating in groups without getting screwed over). We each have the capacity to make use of all 6 but, depending which party you identify with, you will have very strong feelings about which foundations we should prioritize to build a healthy society. 
+        </p>
+        <p>
+          MFT will serve as the North star for all future posts, which will dive deeper into each foundation as well as some other aspects of human psychology. It will get easier to categorize different behaviors with their corresponding foundations. <b>Soon, you’ll develop the superpower that is the ability to have a political discussion that doesn’t end exactly where it started.</b> And with any luck, you’ll be on your way to being a productive neighbor instead of a moral enemy. 
+        </p>
+        <!-- separator -->
+        <p>_____________________________</p>
+        <!-- ____________________________________
+        <ol class="footnotes">
+          <li>
+            <a target="_blank" href="https://www.psychologytoday.com/us/basics/learned-helplessness">“Learned Helplessness”</a> in Psychology Today
+          </li>
+          <li><a target="_blank" href="https://democracyjournal.org/magazine/28/of-freedom-and-fairness/">“Of Freedom and Fairness”</a> by Jonathan Haidt (2013)
+          </li>
+          <li><a target="_blank" href="https://www.amazon.com/Blank-Slate-Modern-Denial-Nature/dp/0142003344">The Blank Slate</a> by Steven Pinker (2003)
+          </li>
+          <li><a target="_blank" href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.108.4.814">"The emotional dog and its rational tail: A social intuitionist approach to moral judgment."</a> by Jonathan Haidt (2001)
+          </li>
+          <li><a target="_blank" href="https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/">“Of 2 Minds: How Fast and Slow Thinking Shape Perception and Choice [Excerpt]”</a> by Daniel Khaneman (2012) </li>
+          <li><a target="_blank" href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA/ref=sr_1_1">Thinking Fast and Slow</a> by Daniel Khaneman (2011) famously details this phenomenon.</li>
+          <li><a target="_blank" href="https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777">The Righteous Mind</a> by Jonathan Haidt (2013)</li>
+          <li><a target="_blank" href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01IAUGC5S/ref=sr_1_1">Behave</a> by Robert Sapolsky (2017) </li>
+        </ol> -->
+      </div>
