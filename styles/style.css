@@ -387,12 +387,12 @@ blockquote {
 }
 
 #menu-button {
+  background-color: rgb(255, 246, 236);
   position: relative;
   right: 0;
   margin: 30px 15px 15px 15px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: rgb(243, 235, 225) !important;
   font-style: italic;
 }
 
@@ -401,11 +401,12 @@ blockquote {
 }
 
 button {
-  background-color: transparent;
+  background-color: rgb(255, 246, 236);
   font-style: italic;
 }
 
 .button {
+  background-color: rgb(255, 246, 236);
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
   color: black;
   border: 2px solid black;
@@ -421,6 +422,7 @@ button {
     color 500ms linear;
 }
 
+button:hover,
 .button:hover {
   color: rgb(255, 246, 236);
   background-color: rgb(0,112,192);
