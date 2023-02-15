@@ -391,8 +391,8 @@ blockquote {
   position: relative;
   right: 0;
   margin: 30px 15px 15px 15px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
   font-style: italic;
 }
 
