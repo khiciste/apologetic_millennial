@@ -387,12 +387,12 @@ blockquote {
 }
 
 #menu-button {
-  position: fixed;
+  position: relative;
   right: 0;
   margin: 30px 15px 15px 15px;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: rgb(243, 235, 225);
+  background-color: rgb(243, 235, 225) !important;
   font-style: italic;
 }
 
