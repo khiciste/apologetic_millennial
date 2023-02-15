@@ -4,4 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
 feed:
-  path: /blog/atom.atom
+  path: /blog/atom.xml
