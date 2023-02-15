@@ -1,6 +1,39 @@
 ---
 layout: default
 ---
+
+  <h1>{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date_to_string }}</p>
+  <!-- color code modal trigger -->
+  <button class="button modal-trigger" href="#color-code-modal">color code</button>
+
+  <!-- blog post TEMPLATE ====================================================-->
+  <!-- <div class="row"> -->
+    <div class="display-none col s12 offset-l1 l8">
+      <h2 id="______________________">______________________</h2>
+      <h6>______________________ | ___ min read</h6>
+      <!-- color code modal trigger -->
+      <button class="button modal-trigger" href="#color-code-modal">color code</button>
+      <p>
+        <!-- post here -->
+      </p>
+      <!-- separator -->
+      <p>_____________________________</p>
+    </div>
+
+  <!-- CONTENT ====================================================-->
+  <div class="col s12 offset-l1 l8">
+
+    <div class="post">
+
+      {{ content }}
+
+      <p>
+        <img class="responsive brand-stamp" src="https://apologeticmillennial.com/images/apologetic_millennial_logo_no_bg.png" />
+      </p>
+    </div>
+  </div>
+
 <div class="row">
 
   <!-- color code modal -->
@@ -110,37 +143,6 @@ layout: default
       <div class="modal-footer">
         <a href="#!" class="work-sans modal-action modal-close waves-effect waves-black btn-flat">CLOSE</a>
       </div>
-    </div>
-  </div>
-
-  <!-- blog post TEMPLATE ====================================================-->
-  <!-- <div class="row"> -->
-    <div class="display-none col s12 offset-l1 l8">
-      <h2 id="______________________">______________________</h2>
-      <h6>______________________ | ___ min read</h6>
-      <!-- color code modal trigger -->
-      <button class="button modal-trigger" href="#color-code-modal">color code</button>
-      <p>
-        <!-- post here -->
-      </p>
-      <!-- separator -->
-      <p>_____________________________</p>
-    </div>
-
-  <!-- CONTENT ====================================================-->
-  <div class="col s12 offset-l1 l8">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date_to_string }}</p>
-    <!-- color code modal trigger -->
-    <button class="button modal-trigger" href="#color-code-modal">color code</button>
-
-    <div class="post">
-
-      {{ content }}
-
-      <p>
-        <img class="responsive brand-stamp" src="https://apologeticmillennial.com/images/apologetic_millennial_logo_no_bg.png" />
-      </p>
     </div>
   </div>
 
