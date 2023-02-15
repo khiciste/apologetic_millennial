@@ -7,6 +7,11 @@ layout: feed
 	<title>Apologetic Millennial Blog</title>
 	<link href="https://apologeticmillennial.com/blog/atom.xml" rel="self"/>
 	<link href="https://apologeticmillennial.com/blog"/>
+	<image>
+		<url>https://apologeticmillennial.com/./images/favicon/apple-touch-icon.png</url>
+		<title>Apologetic Millennial</title>
+		<link>https://apologeticmillennial.com/blog</link>
+	</image>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>https://apologeticmillennial.com/blog</id>
 	<author>
