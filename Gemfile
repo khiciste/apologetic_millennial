@@ -1,1 +1,1 @@
-gem 'atom.xml'
+gem 'jekyll-feed'
