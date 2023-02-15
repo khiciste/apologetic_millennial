@@ -439,6 +439,10 @@ input[type='text'] {
     margin: 2.8rem 0 0 20px;
 }
 
+.sub-list, 
+.sub-list li {
+  font-size: 16px;
+}
 
 .blogs-list li {
   font-size: 18px;
