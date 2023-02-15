@@ -188,6 +188,10 @@ header, main, footer {
 
 /* med & down */
 @media only screen and (max-width: 992px) {
+  #banner h1 {
+    font-size: 54px;
+  }
+
   .typewriter {
     white-space: normal; /* Keeps the content on a single line */
   }
