@@ -373,6 +373,10 @@ main li {
   font-size: 24px;
 }
 
+.about-right-img {
+  margin-bottom: 20px;
+}
+
 @media only screen and (min-width: 993px) {
   .padding-left-50 {
     padding-left: 50px !important;
@@ -380,10 +384,6 @@ main li {
   
   .padding-right-50 {
     padding-right: 50px !important;
-  }
-
-  .about-right-img {
-    margin-bottom: 20px;
   }
 }
 
