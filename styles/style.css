@@ -374,13 +374,17 @@ main li {
 }
 
 @media only screen and (min-width: 993px) {
-  .left-padding-3vw {
-    padding-left: 3vw;
+  .padding-left-50 {
+    padding-left: 50px !important;
   }
   
-  .right-padding-3vw {
-    padding-right: 3vw;
+  .padding-right-50 {
+    padding-right: 50px !important;
   }
+}
+
+.width-90pc {
+  width: 90% !important;
 }
 
 .small {
