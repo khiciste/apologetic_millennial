@@ -373,8 +373,8 @@ main li {
   font-size: 24px;
 }
 
-.about-right-img {
-  margin-bottom: 20px;
+.margin-bottom-30 {
+  margin-bottom: 30px;
 }
 
 @media only screen and (min-width: 993px) {
