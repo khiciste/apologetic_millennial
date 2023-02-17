@@ -373,6 +373,16 @@ main li {
   font-size: 24px;
 }
 
+@media only screen and (min-width: 993px) {
+  .left-padding-3vw {
+    padding-left: 3vw;
+  }
+  
+  .right-padding-3vw {
+    padding-right: 3vw;
+  }
+}
+
 .small {
   font-size: 14px;
 }
