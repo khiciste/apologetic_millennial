@@ -381,6 +381,10 @@ main li {
   .padding-right-50 {
     padding-right: 50px !important;
   }
+
+  .about-right-img {
+    margin-bottom: 20px;
+  }
 }
 
 .width-90pc {
