@@ -374,6 +374,8 @@ main li {
 }
 
 #about-gram {
+  box-sizing: border-box;
+  min-width: 226px;
   max-width: 226px;
 }
 
