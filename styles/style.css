@@ -373,6 +373,10 @@ main li {
   font-size: 24px;
 }
 
+#about-gram {
+  max-width: 226px;
+}
+
 .margin-bottom-30 {
   margin-bottom: 30px;
 }
