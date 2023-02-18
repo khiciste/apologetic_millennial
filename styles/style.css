@@ -373,7 +373,7 @@ main li {
   font-size: 24px;
 }
 
-#instagram-embed-0 {
+.ig-fixed-width {
   box-sizing: border-box;
   min-width: 226px;
   max-width: 226px;
