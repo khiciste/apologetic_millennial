@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 feed:
   path: /blog/atom.atom
+port: 4001
