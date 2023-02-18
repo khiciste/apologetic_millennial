@@ -373,7 +373,7 @@ main li {
   font-size: 24px;
 }
 
-#about-gram {
+iframe {
   box-sizing: border-box;
   min-width: 226px;
   max-width: 226px;
