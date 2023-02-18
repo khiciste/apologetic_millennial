@@ -373,10 +373,11 @@ main li {
   font-size: 24px;
 }
 
-iframe {
+#instagram-embed-0 {
   box-sizing: border-box;
   min-width: 226px;
   max-width: 226px;
+  width: 226px;
 }
 
 .margin-bottom-30 {
