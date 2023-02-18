@@ -377,16 +377,6 @@ main li {
   margin-bottom: 30px;
 }
 
-@media only screen and (min-width: 993px) {
-  .padding-left-50 {
-    padding-left: 50px !important;
-  }
-  
-  .padding-right-50 {
-    padding-right: 50px !important;
-  }
-}
-
 .width-90pc {
   width: 90% !important;
 }
