@@ -382,8 +382,8 @@ main li {
 }
 
 @media only screen and (min-width: 993px) {
-  .padding-left-50 {
-    padding-left: 50px;
+  .padding-left-30 {
+    padding-left: 30px;
   }
 }
 
