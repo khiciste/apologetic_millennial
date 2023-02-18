@@ -150,6 +150,9 @@ img.responsive-w-300px {
   #mark-pic {
     width: 300px;
   }
+  #about-left-col {
+    padding-left: 40px;
+  }
 }
 
 #ltud-book-large-screens {
