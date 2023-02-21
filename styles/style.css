@@ -407,7 +407,7 @@ main li {
   background-color: rgb(255, 246, 236);
   padding: 0 20px 10px 20px;
   margin-bottom: 20px;
-  border: 2px solid darkslategrey;
+  border: 1.5px solid darkslategrey;
   box-shadow: 2px 2px 2px lightgrey;
   transition: 
     transform 250ms linear,
