@@ -354,6 +354,10 @@ main h3 {
   font-size: 32px;
 }
 
+main h4 {
+  font-size: 28px;
+}
+
 main h5 {
   font-size: 20px;
 }
@@ -401,9 +405,17 @@ main li {
 
 .post-preview-card {
   background-color: rgb(255, 246, 236);
-  padding: 0 30px 10px 30px;
+  padding: 0 20px 10px 20px;
   margin-bottom: 20px;
   border: 2px solid darkslategrey;
+  box-shadow: 2px 2px 2px lightgrey;
+  transition: 
+    transform 250ms linear,
+    box-shadow 250ms linear;
+}
+.post-preview-card:hover {
+  transform: translate(1px, -2px);
+  box-shadow: 2px 2px 2px grey;
 }
 
 .black-text {
