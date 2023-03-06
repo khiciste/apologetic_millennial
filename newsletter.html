@@ -17,11 +17,21 @@ title: Apologetic Millennial
           Doing so will also help me land an agent as a first-time author!
         </p>
         <p>
-          #likeandsubscribe, #likeandsubscribe
+          #likeandsubscribe, #likeandsubscribe, #likeand...
+          <button class="button" id="subscribe-button">subscribe!</button>
         </p>
       </div>
 
-      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/789b091174d2add44d6e07a83/32e6b0d05cba9d504ab24f6c3.js");</script>
+      <script id="mcjs">
+        function showPopup() { 
+          !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/789b091174d2add44d6e07a83/32e6b0d05cba9d504ab24f6c3.js");
+
+          //unsetting the cookie
+          document.cookie = "MCPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";                  
+          document.cookie = "MCPopupSubscribed=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+        }
+        document.getElementById("subscribe-button").onclick = function() { showPopup(); }
+      </script>
 
       <!--         <h2>sign up!</h2>
 
