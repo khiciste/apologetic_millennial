@@ -11,9 +11,9 @@ html, body {
   background-color: rgb(255, 246, 236);
   box-sizing: border-box;
   height: 100%;
-  width: 100%;
+  width: 100vw;
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
-  overflow-x: hidden;
+  overflow: overlay;
 }
 
 /* keeps footer at bottom  */
@@ -22,6 +22,25 @@ html, body {
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: 100%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+/* track */
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+/* handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 0;
+}
+/* handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(60, 60, 60); 
 }
 
 
@@ -439,14 +458,6 @@ blockquote {
   background-color: rgb(243, 235, 225);
 }
 
-#menu-button {
-  background-color: rgb(255, 246, 236);
-  position: relative;
-  right: 0;
-  margin: 20px 0 0 0;
-  font-style: italic;
-}
-
 .instagram-media {
   margin-bottom: 10px;
 }
@@ -473,6 +484,14 @@ button {
     color 500ms linear;
 }
 
+#menu-button {
+  background-color: rgb(255, 246, 236);
+  position: relative;
+  right: 0;
+  margin: 20px 0 0 0;
+  font-style: italic;
+}
+
 #menu-button:hover,
 button:hover,
 .button:hover {
@@ -481,6 +500,10 @@ button:hover,
   border: 2px solid rgb(0,112,192);
   cursor: pointer;
   font-weight: normal;
+}
+
+#subscribe-button {
+  margin-left: 0;
 }
 
 input[type='text'] {
@@ -557,11 +580,11 @@ footer a.disabled:hover {
 
 .social-icons {
   display: flexbox;
-  width: 50px;
+  width: 40px;
   height: auto;
   margin: 20px;
   justify-content: space-evenly;
-/*   align-content: space-around; */
+  /* align-items: space-around; */
 }
 
 .medium-icons {
