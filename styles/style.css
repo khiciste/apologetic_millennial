@@ -397,6 +397,14 @@ main p a:hover {
   font-weight: bold;
 }
 
+main ul { 
+  margin-left: 20px;
+}
+
+main ul>li {
+  list-style: square !important;
+}
+
 main li {
   font-size: 18px;
 }
