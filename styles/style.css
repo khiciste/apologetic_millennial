@@ -63,7 +63,7 @@ html, body {
   visibility: hidden;
 }
 
-/* .communication { color: rgb(0, 185, 255); } */
+.communication { color: rgb(0, 185, 255); }
 .authority { color: rgb(255, 153, 0) !important; }
 /* .loyalty { color: rgb(0, 220, 0); } */
 .loyalty { color: rgb(0, 176, 80); }
@@ -74,6 +74,10 @@ html, body {
 
 .modal-trigger:hover {
   font-weight: bold;
+}
+
+.info {
+  font-size: 18px;
 }
 
 img.responsive-h-300px {
@@ -375,6 +379,7 @@ main h3 {
 
 main h4 {
   font-size: 28px;
+  color: rgb(0,112,192);
 }
 
 main h5 {
@@ -399,7 +404,12 @@ main p a:hover {
 
 main ul { 
   margin-left: 30px;
-  margin-right: 100px;
+}
+
+@media only screen and (min-width: 993px) {
+  main ul {
+    margin-right: 100px;
+  }
 }
 
 main ul>li {
