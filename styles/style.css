@@ -398,7 +398,8 @@ main p a:hover {
 }
 
 main ul { 
-  margin-left: 20px;
+  margin-left: 30px;
+  margin-right: 100px;
 }
 
 main ul>li {
