@@ -423,7 +423,7 @@ main li {
 }
 
 .post-preview-card {
-  background-color: rgb(255, 246, 236);
+  background-color: rgba(255, 255, 255, 0.6);
   padding: 0 20px 10px 20px;
   margin-bottom: 20px;
   border: 1.5px solid darkslategrey;
@@ -510,26 +510,9 @@ input[type='text'] {
   font-family: 'Courier Prime', 'Cutive Mono', Courier;
 }
 
-/* LARGE & UP */
-@media only screen and (min-width: 993px) {
-}
-  .blogs-list {
-    margin: 2.8rem 0 0 20px;
-}
-
 .sub-list, 
 .sub-list li {
   font-size: 16px;
-}
-
-.blogs-list li {
-  font-size: 18px;
-  margin-bottom: 10px; 
-}
-
-.blogs-list p {
-  font-size: 18px;
-  margin: 0;
 }
 
 .brand-stamp {
