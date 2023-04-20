@@ -540,6 +540,15 @@ input[type='text'] {
   height: auto;
 }
 
+.max-width-500 {
+  max-width: 500px;
+}
+
+/* #bud-light-bottles {
+  width: 400px !important;
+  height: auto !important;
+} */
+
 /*  FOOTER ===========================================  */
 
 footer .row {
