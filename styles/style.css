@@ -55,6 +55,10 @@ html, body {
   justify-content: center;
 }
 
+.margin-auto {
+  margin: auto;
+}
+
 .display-none {
   display: none;
 }
