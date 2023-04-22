@@ -93,6 +93,15 @@ img.responsive-w-300px {
   height: auto;
 }
 
+img.responsive-h-500px {
+  max-height: 500px;
+  width: auto;
+}
+img.responsive-w-500px {
+  max-width: 500px;
+  height: auto;
+}
+
 .bold {
   font-weight: bold;
 }
