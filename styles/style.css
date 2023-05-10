@@ -84,6 +84,15 @@ html, body {
   font-size: 14px;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.max-width-500 {
+  max-width: 500px;
+}
+
 img.responsive-h-300px {
   max-height: 300px;
   width: auto;
@@ -102,33 +111,12 @@ img.responsive-w-500px {
   height: auto;
 }
 
-@media only screen and (max-width: 400px) {
-  #mex-am-border-fence {
-    width: 340px;
-    height: auto;
-  }  
-}
-
-@media only screen and (min-width: 401px) {
-  #mex-am-border-fence {
-    height: 480px;
-    width: auto;
-    margin: auto;
-  }
-}
-
-
 .bold {
   font-weight: bold;
 }
 
 .italic {
   font-style: italic;
-}
-
-.responsive {
-  width: 100%;
-  height: auto;
 }
 
 /* for RYAN STREETER graphic */
@@ -569,8 +557,21 @@ input[type='text'] {
   height: auto;
 }
 
-.max-width-500 {
-  max-width: 500px;
+/* CUSTOM MEDIA QUERIES & ID STUFF */
+
+@media only screen and (max-width: 400px) {
+  #mex-am-border-fence {
+    width: 340px;
+    height: auto;
+  }  
+}
+
+@media only screen and (min-width: 401px) {
+  #mex-am-border-fence {
+    height: 480px;
+    width: auto;
+    margin: auto;
+  }
 }
 
 /* #bud-light-bottles {
