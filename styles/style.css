@@ -102,6 +102,22 @@ img.responsive-w-500px {
   height: auto;
 }
 
+@media only screen and (max-width: 400px) {
+  #mex-am-border-fence {
+    width: 340px;
+    height: auto;
+  }  
+}
+
+@media only screen and (min-width: 401px) {
+  #mex-am-border-fence {
+    height: 480px;
+    width: auto;
+    margin: auto;
+  }
+}
+
+
 .bold {
   font-weight: bold;
 }
