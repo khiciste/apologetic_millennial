@@ -449,6 +449,9 @@ main li {
   margin: 5px 0;
 }
 
+.modal {
+  text-wrap: wrap;
+}
 
 .margin-bottom-30 {
   margin-bottom: 30px;
