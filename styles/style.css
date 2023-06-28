@@ -15,7 +15,7 @@ html, body {
   margin: 0;
   font: 400 15px/1.8 'Courier Prime', 'Cutive Mono', Courier;
   color: #777;
-  overflow: overlay;
+  scrollbar-gutter: auto;
   overflow-x: hidden;
   /* margin: 0; */
 }
