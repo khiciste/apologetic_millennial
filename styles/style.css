@@ -11,11 +11,12 @@ html, body {
   background-color: rgb(255, 246, 236);
   box-sizing: border-box;
   height: 100%;
-  width: 100vw;
+  width: 100%;
   margin: 0;
   font: 400 15px/1.8 'Courier Prime', 'Cutive Mono', Courier;
   color: #777;
   overflow: overlay;
+  overflow-x: hidden;
   /* margin: 0; */
 }
 
