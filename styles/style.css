@@ -213,7 +213,7 @@ header, main, footer {
 #banner {
   padding: 0;
   margin: 0;
-  width: 100vw;
+  width: 100%;
   height: auto;
 }
 
@@ -296,6 +296,10 @@ header, main, footer {
 } */
 
 /* NAV ================================================ */
+
+.nav-wrapper {
+  margin-top: -11px;
+}
 
 nav {
   background-color: rgb(243, 235, 225) !important;
@@ -588,7 +592,7 @@ input[type='text'] {
 
 .bgimg-1 {
   margin-top: 24px;
-  padding-top: 420px;
+  padding-top: 400px;
   background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-1_Mark-on-couch.jpg");
   min-height: 100%;
 }
@@ -607,6 +611,7 @@ input[type='text'] {
 
 .bgimg-4 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-4_Words-are-a-powerful-tool.png");
+  background-size: 125%;
   min-height: 500px;
 }
 
@@ -626,7 +631,7 @@ input[type='text'] {
 .caption {
   position: absolute;
   left: 0;
-  top: 40%;
+  top: 30%;
   width: 100%;
   text-align: center;
   color: #000;
