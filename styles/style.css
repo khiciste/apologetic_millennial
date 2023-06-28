@@ -626,6 +626,7 @@ input[type='text'] {
 .index-blogs-list li {
   color: #ddd !important;
   margin-bottom: 30px;
+  list-style: none !important;
 }
 
 .caption {
