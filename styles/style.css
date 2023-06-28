@@ -611,8 +611,14 @@ input[type='text'] {
 
 .bgimg-4 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-4_Words-are-a-powerful-tool.png");
-  background-size: 125%;
+  background-size: 100%;
   min-height: 500px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .bgimg-4 {
+    background-size: 200%;
+  }
 }
 
 .index-blogs-list a {
