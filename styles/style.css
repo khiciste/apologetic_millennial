@@ -78,6 +78,7 @@ html, body {
 .harm { color: rgb(0, 0, 255); }
 .sanctity { color: rgb(255, 0, 255); }
 .freedom { color: rgb(152, 0, 0); }
+.external-link { color: rgb(0,112,192); font-weight: bold; }
 
 .modal-trigger:hover {
   font-weight: bold;
@@ -402,14 +403,17 @@ main {
 main h1 {
   display: inline-block;
   font-size: 48px;
+  color: rgb(33, 33, 33);
 }
 
 main h2 {
   font-size: 40px;
+  color: rgb(33, 33, 33);
 }
 
 main h3 {
   font-size: 32px;
+  color: rgb(33, 33, 33);
 }
 
 main h4 {
