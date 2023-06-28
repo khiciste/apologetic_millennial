@@ -213,8 +213,8 @@ header, main, footer {
 #banner {
   padding: 0;
   margin: 0;
-  margin-top: -20px;
-  height: 320px;
+  width: 100vw;
+  height: auto;
 }
 
 /* #banner {
@@ -670,11 +670,6 @@ h3 {
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
     background-attachment: scroll;
-  }
-  #banner {
-    margin-top: 0;
-    width: 100vw;
-    height: auto;
   }
   #index-icons-wrapper {
     display: flex;
