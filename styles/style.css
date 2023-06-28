@@ -215,12 +215,6 @@ header, main, footer {
   margin: 0;
   margin-top: -20px;
   height: 320px;
-  /* background-image: url('https://apologeticmillennial.com/images/AM_Media - Landing Page-2_sanity-and-science.jpg');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 200px; */
 }
 
 /* #banner {
@@ -395,8 +389,10 @@ main {
   padding-left: 4vw;
   padding-right: 4vw;
   /* padding-top: 400px; */
-  min-height: 320px;
+  width: 100vw;
+  height: auto;
   margin-bottom: -100px;
+  overflow-x: hidden;
 }
 
 main h1 {
@@ -545,7 +541,7 @@ button {
   background-color: rgb(255, 246, 236);
   position: relative;
   right: 0;
-  margin: 20px 0 0 0;
+  margin: 10px 0 0 0;
   font-style: italic;
   z-index: 1;
 }
@@ -581,27 +577,6 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
-.parallax-wrapper {
-  position: absolute;
-  display: block;
-  top: 500px;
-  margin-bottom: 100px;
-  margin-top: 0px;
-  padding-top: 0px;
-}
-
-.parallax {
-  position: relative;
-  /* Set a specific height */
-  min-height: 500px;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0;
-}
-
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
   position: relative;
   opacity: 0.65;
@@ -626,7 +601,7 @@ input[type='text'] {
 .bgimg-3 {
   background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-4_Words-are-a-powerful-tool.png");
   min-height: 400px;
-  background-size: 125%;
+  background-size: 100%;
   padding: 20px
 }
 
@@ -695,6 +670,14 @@ h3 {
 @media only screen and (max-device-width: 1024px) {
   .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
     background-attachment: scroll;
+  }
+  #banner {
+    margin-top: 0;
+    width: 100vw;
+    height: auto;
+  }
+  main {
+
   }
 }
 
