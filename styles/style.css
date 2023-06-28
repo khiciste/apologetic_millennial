@@ -594,19 +594,19 @@ input[type='text'] {
 }
 
 .bgimg-2 {
-  background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-2_sanity-and-science.png");
+  background-image: url("/images/AM_Media\ -\ Landing\ Page-6_writing\ green\ couch.JPG");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-4_Words-are-a-powerful-tool.png");
+  background-image: url("/images/AM_Media\ -\ Landing\ Page-5_We\ suck\ at\ talking\ politics.png");
   min-height: 400px;
   background-size: 100%;
   padding: 20px
 }
 
 .bgimg-4 {
-  background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-3_Mark-black-and-white-window.jpg");
+  background-image: url("/images/AM_Media\ -\ Landing\ Page-4_Words-are-a-powerful-tool.png");
   min-height: 500px;
 }
 
