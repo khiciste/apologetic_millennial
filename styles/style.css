@@ -655,26 +655,27 @@ h5.index-list {
   padding: 18px;
 }
 
-#why-me-section {
-  color: #777; 
-  background-color: white; 
-  padding: 50px; 
-  text-align: left;
-}
-
-#why-me-heading {
-  letter-spacing: 5px;
-  text-align: center;
-  font: 20px 'Courier Prime';
-  color: #111;
-}
-
-#videos-section {
+.index-content {
   color: #ddd; 
   background-color: #282E34; 
   text-align: center; 
   padding: 50px; 
   text-align: left;
+}
+
+#why-me-section {
+  color: #777; 
+  background-color: white; 
+  padding: 50px; 
+  text-align: left;
+  min-height: 400px;
+}
+
+.parallax-section-heading {
+  letter-spacing: 5px;
+  text-align: center;
+  font: 30px 'Courier Prime';
+  color: #111;
 }
 
 #index-icons-wrapper {
