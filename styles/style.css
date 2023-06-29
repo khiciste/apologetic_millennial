@@ -583,36 +583,6 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
-.parallax-container {
-  /* position: relative; */
-  width: 100%;
-}
-
-.parallax {
-  /* position: static; */
-  /* z-index: 0; */
-}
-
-.parallax img {
-  /* display: inherit !important; */
-  /* visibility: visible; */
-  width: 100vw;
-  height: auto;
-  /* background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%; */
-}
-
-#mark-on-couch {
-  background-image: url('https://apologeticmillennial.com/images/AM_Media - Landing Page-1_Mark-on-couch.jpg');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position-y: 100px;
-}
-
 #parallax-wrapper {
   /* position: absolute; */
   /* z-index: 100000; */
@@ -677,12 +647,11 @@ input[type='text'] {
 
 .caption {
   /* position: absolute; */
-  /* display: block; */
-  /* z-index: 1; */
+  display: block;
   left: 0;
   top: 30%;
-  /* width: 100%; */
-  /* height: 900px; */
+  width: 100%;
+  height: 900px;
   text-align: center;
   color: #000;
   font: 'Courier Prime';
