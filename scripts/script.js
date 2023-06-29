@@ -1,5 +1,8 @@
 $(document).ready(function(){
   
+  // initialize parallax effect
+  $('.parallax').parallax();
+
   // initialize sidenav for mobile
   $('.sidenav').sidenav();
 
@@ -9,9 +12,6 @@ $(document).ready(function(){
     edge: 'right', // Choose the horizontal origin
     closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
   });
-
-  // initialize parallax effect
-  $('.parallax').parallax();
 
   // var i = 0;
   // var banner = 'Apologetic Millennial';
