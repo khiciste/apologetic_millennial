@@ -10,11 +10,14 @@ $(document).ready(function(){
     closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
   });
 
-  var i = 0;
-  var banner = 'Apologetic Millennial';
-  var $banner = document.getElementById('banner-h1');
+  // initialize parallax effect
+  $('.parallax').parallax();
+
+  // var i = 0;
+  // var banner = 'Apologetic Millennial';
+  // var $banner = document.getElementById('banner-h1');
   // $banner.innerHTML = 'test';
-  var speed = 250;
+  // var speed = 250;
   
   // MODAL INITIALIZATION
   $('.modal').modal();

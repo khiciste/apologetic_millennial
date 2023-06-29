@@ -17,7 +17,6 @@ html, body {
   color: #777;
   scrollbar-gutter: auto;
   overflow-x: hidden;
-  /* margin: 0; */
 }
 
 /* keeps footer at bottom  */
@@ -392,7 +391,7 @@ main {
   padding-left: 4vw;
   padding-right: 4vw;
   width: 100vw;
-  height: auto;
+  /* height: auto; */
   margin-bottom: -100px;
   overflow-x: hidden;
 }
@@ -582,15 +581,19 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
+.parallax {
+  position: static;
+}
+
 #parallax-wrapper {
   /* position: absolute; */
   /* z-index: 100000; */
-  top: 400px;
+  /* top: 400px; */
   /* margin-top: 0px; */
   /* padding-top: 0px; */
 }
 
-.bgimg {
+/* .bgimg {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -628,7 +631,7 @@ input[type='text'] {
   #bgimg-4 {
     background-size: 200%;
   }
-}
+} */
 
 .index-blogs-list a {
   color: #ddd !important;
@@ -646,7 +649,7 @@ input[type='text'] {
 
 .caption {
   /* position: absolute; */
-  display: block;
+  /* display: block; */
   left: 0;
   top: 30%;
   width: 100%;
