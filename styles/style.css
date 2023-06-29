@@ -617,13 +617,13 @@ input[type='text'] {
   background-size: 110%;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 768px) {
   #bgimg-4 {
     background-size: 150%;
   }
 } */
 
-h4.index-list {
+h5.index-list {
   color: #ddd !important;
 }
 
@@ -635,23 +635,24 @@ h4.index-list {
 .parallax-caption {
   position: relative;
   height: 900px;
-  left: 0;
+  width: 100%;
+  /* left: 0; */
   top: 300px;
   margin: auto;
   text-align: center;
   font: 'Courier Prime';
   color: #111;
   font-size: 25px;
+  letter-spacing: 5px;
 }
 
 #marks-credentials {
   background-color: #111;
   color: #fff;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 18px;
+  font-size: 30px;
   letter-spacing: 10px;
+  text-align: center;
+  padding: 18px;
 }
 
 #why-me-section {
@@ -682,12 +683,10 @@ h4.index-list {
   padding-top: 100px;
   padding-bottom: 100px;
 }
-
 .index-icons {
   width: 80px;
   height: auto;
 }
-
 #youtube-icon {
   width: 110px;
   height: auto;
@@ -695,13 +694,9 @@ h4.index-list {
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 767px) {
-  #bgimg-1, #bgimg-2, #bgimg-3, #bgimg-4 {
+  .parallax-bg {
     background-attachment: scroll;
   }
-  #bgimg-4 {
-    background-size: 150%;
-  }
-
   #index-icons-wrapper {
     display: flex;
     flex-direction: row;
