@@ -8,6 +8,8 @@
 }
 
 html, body {
+  position: relative;
+  z-index: -1;
   background-color: rgb(255, 246, 236);
   box-sizing: border-box;
   height: 100%;
@@ -17,7 +19,6 @@ html, body {
   color: #777;
   scrollbar-gutter: auto;
   overflow-x: hidden;
-  /* margin: 0; */
 }
 
 /* keeps footer at bottom  */
@@ -392,7 +393,7 @@ main {
   padding-left: 4vw;
   padding-right: 4vw;
   width: 100vw;
-  height: auto;
+  /* height: auto; */
   margin-bottom: -100px;
   overflow-x: hidden;
 }
@@ -582,15 +583,45 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
+.parallax-container {
+  /* position: relative; */
+  width: 100%;
+}
+
+.parallax {
+  /* position: static; */
+  /* z-index: 0; */
+}
+
+.parallax img {
+  /* display: inherit !important; */
+  /* visibility: visible; */
+  width: 100vw;
+  height: auto;
+  /* background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%; */
+}
+
+#mark-on-couch {
+  background-image: url('https://apologeticmillennial.com/images/AM_Media - Landing Page-1_Mark-on-couch.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: 100px;
+}
+
 #parallax-wrapper {
   /* position: absolute; */
   /* z-index: 100000; */
-  top: 400px;
+  /* top: 400px; */
   /* margin-top: 0px; */
   /* padding-top: 0px; */
 }
 
-.bgimg {
+/* .bgimg {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -628,7 +659,7 @@ input[type='text'] {
   #bgimg-4 {
     background-size: 200%;
   }
-}
+} */
 
 .index-blogs-list a {
   color: #ddd !important;
@@ -646,11 +677,12 @@ input[type='text'] {
 
 .caption {
   /* position: absolute; */
-  display: block;
+  /* display: block; */
+  /* z-index: 1; */
   left: 0;
   top: 30%;
-  width: 100%;
-  height: 900px;
+  /* width: 100%; */
+  /* height: 900px; */
   text-align: center;
   color: #000;
   font: 'Courier Prime';
