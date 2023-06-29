@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
   // initialize parallax effect
-  $('.parallax').parallax();
+  // $('.parallax').parallax();
 
   // initialize sidenav for mobile
   $('.sidenav').sidenav();

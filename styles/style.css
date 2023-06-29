@@ -398,6 +398,10 @@ main {
   overflow-x: hidden;
 }
 
+main a:hover {
+  text-decoration: underline;
+}
+
 main h1 {
   display: inline-block;
   font-size: 48px;
@@ -583,94 +587,93 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
-#parallax-wrapper {
-  /* position: absolute; */
-  /* z-index: 100000; */
-  /* top: 400px; */
-  /* margin-top: 0px; */
-  /* padding-top: 0px; */
-}
-
-/* .bgimg {
+.parallax-bg {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+  min-height: 100%;
 }
 
 #bgimg-1 {
-  margin-top: 0px;
-  padding-top: 0px;
   background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-1_Mark-on-couch.jpg");
-  min-height: 700px;
+  background-position-y: 120px;
 }
 
 #bgimg-2 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-6_writing\ green\ couch.JPG");
-  min-height: 400px;
+  background-position-y: -300px;
 }
 
 #bgimg-3 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-5_We\ suck\ at\ talking\ politics.png");
-  min-height: 400px;
-  background-size: 100%;
-  padding: 20px
+  background-size: 100vw;
 }
 
 #bgimg-4 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-4_Words-are-a-powerful-tool.png");
-  background-size: 100%;
-  min-height: 500px;
+  background-size: 110%;
 }
 
 @media only screen and (max-width: 1024px) {
   #bgimg-4 {
-    background-size: 200%;
+    background-size: 150%;
   }
 } */
 
-.index-blogs-list a {
+h4.index-list {
   color: #ddd !important;
 }
 
-.index-blogs-list a:hover {
-  text-decoration: underline;
-}
-
-.index-blogs-list li {
-  color: #ddd !important;
+.index-list li {
   margin-bottom: 30px;
   list-style: none !important;
 }
 
-.caption {
-  /* position: absolute; */
-  display: block;
-  left: 0;
-  top: 30%;
-  width: 100%;
+.parallax-caption {
+  position: relative;
   height: 900px;
+  left: 0;
+  top: 300px;
+  margin: auto;
   text-align: center;
-  color: #000;
   font: 'Courier Prime';
+  color: #111;
+  font-size: 25px;
 }
 
-.caption span.border {
+#marks-credentials {
   background-color: #111;
   color: #fff;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 18px;
-  font-size: 25px;
   letter-spacing: 10px;
-  font: 'Courier Prime';
 }
 
-h3 {
+#why-me-section {
+  color: #777; 
+  background-color: white; 
+  padding: 50px; 
+  text-align: left;
+}
+
+#why-me-heading {
   letter-spacing: 5px;
-  text-transform: uppercase;
+  text-align: center;
   font: 20px 'Courier Prime';
   color: #111;
+}
+
+#videos-section {
+  color: #ddd; 
+  background-color: #282E34; 
+  text-align: center; 
+  padding: 50px; 
+  text-align: left;
 }
 
 #index-icons-wrapper {
@@ -691,10 +694,14 @@ h3 {
 }
 
 /* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-device-width: 1024px) {
-  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+@media only screen and (max-device-width: 767px) {
+  #bgimg-1, #bgimg-2, #bgimg-3, #bgimg-4 {
     background-attachment: scroll;
   }
+  #bgimg-4 {
+    background-size: 150%;
+  }
+
   #index-icons-wrapper {
     display: flex;
     flex-direction: row;
