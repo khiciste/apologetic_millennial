@@ -212,11 +212,8 @@ header, main, footer {
   width: 100vw;
 }
 
-#banner {
-  padding: 0;
-  margin: 0;
-  width: 100%;
-  height: auto;
+header {
+  /* margin-bottom: 400px; */
 }
 
 /* #banner {
@@ -394,7 +391,6 @@ nav ul li.disabled:hover,
 main {
   padding-left: 4vw;
   padding-right: 4vw;
-  /* padding-top: 400px; */
   width: 100vw;
   height: auto;
   margin-bottom: -100px;
@@ -586,7 +582,15 @@ input[type='text'] {
 
 /* PARALLAX EFFECT ==================================== */
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+#parallax-wrapper {
+  /* position: absolute; */
+  /* z-index: 100000; */
+  top: 400px;
+  /* margin-top: 0px; */
+  /* padding-top: 0px; */
+}
+
+.bgimg {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -595,33 +599,33 @@ input[type='text'] {
   background-size: 100%;
 }
 
-.bgimg-1 {
-  margin-top: 24px;
-  padding-top: 400px;
+#bgimg-1 {
+  margin-top: 0px;
+  padding-top: 0px;
   background-image: url("https://apologeticmillennial.com/images/AM_Media - Landing Page-1_Mark-on-couch.jpg");
-  min-height: 100%;
+  min-height: 700px;
 }
 
-.bgimg-2 {
+#bgimg-2 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-6_writing\ green\ couch.JPG");
   min-height: 400px;
 }
 
-.bgimg-3 {
+#bgimg-3 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-5_We\ suck\ at\ talking\ politics.png");
   min-height: 400px;
   background-size: 100%;
   padding: 20px
 }
 
-.bgimg-4 {
+#bgimg-4 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-4_Words-are-a-powerful-tool.png");
   background-size: 100%;
   min-height: 500px;
 }
 
 @media only screen and (max-width: 1024px) {
-  .bgimg-4 {
+  #bgimg-4 {
     background-size: 200%;
   }
 }
@@ -641,10 +645,12 @@ input[type='text'] {
 }
 
 .caption {
-  position: absolute;
+  /* position: absolute; */
+  display: block;
   left: 0;
   top: 30%;
   width: 100%;
+  height: 900px;
   text-align: center;
   color: #000;
   font: 'Courier Prime';
