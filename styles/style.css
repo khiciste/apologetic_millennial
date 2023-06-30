@@ -590,6 +590,8 @@ input[type='text'] {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  transition: 0s linear;
+    transition-property: background-position;
   min-height: 100%;
 }
 
