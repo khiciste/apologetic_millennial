@@ -213,10 +213,6 @@ header, main, footer {
   width: 100vw;
 }
 
-header {
-  /* margin-bottom: 400px; */
-}
-
 /* #banner {
   color: rgb(243, 235, 225);
   background: rgb(0,112,192);
@@ -618,6 +614,11 @@ input[type='text'] {
 }
 
 @media only screen and (max-width: 768px) {
+  #bgimg-1 {
+    width: 100%;
+    height: auto;
+    background-size: 100%;
+  }
   #bgimg-4 {
     background-size: 150%;
   }
@@ -790,15 +791,12 @@ footer a.disabled:hover {
   height: auto;
   margin: 20px;
   justify-content: space-evenly;
-  /* align-items: space-around; */
 }
 
 .medium-icons {
   width: 60px;
   height: auto;
-/*   margin: 12px; */
   justify-items: center;
-/*   align-content: center; */
 }
 
 .hide {
