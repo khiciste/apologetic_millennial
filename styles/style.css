@@ -648,12 +648,14 @@ h5.index-list {
 }
 
 #marks-credentials {
+  display: inline-block;
+  width: 80%;
   background-color: #111;
   color: #fff;
-  font-size: 30px;
+  font-size: 25px;
   letter-spacing: 10px;
   text-align: center;
-  padding: 18px;
+  padding: 15px;
 }
 
 .index-content {
