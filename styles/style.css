@@ -611,13 +611,14 @@ input[type='text'] {
 
 #bgimg-2 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-6_writing\ green\ couch.JPG");
-  /* background-position-y: -300px; */
 }
 
 /* move mark's head up on tablets & up */
 @media only screen and (min-device-width: 768px) {
   #bgimg-2 {
     background-position-y: -300px;
+  }
+  .parallax-caption {
   }
 }
 
@@ -631,7 +632,8 @@ input[type='text'] {
   background-size: 110%;
 }
 
-@media only screen and (max-width: 768px) {
+/* small screens */
+@media only screen and (max-device-width: 767px) {
   #bgimg-1 {
     width: 100%;
     height: auto;
@@ -640,7 +642,7 @@ input[type='text'] {
   #bgimg-4 {
     background-size: 150%;
   }
-} */
+}
 
 h5.index-list {
   color: #ddd !important;
@@ -653,9 +655,8 @@ h5.index-list {
 
 .parallax-caption {
   position: relative;
-  height: 900px;
   width: 100%;
-  /* left: 0; */
+  height: 800px;
   top: 300px;
   margin: auto;
   text-align: center;
@@ -759,7 +760,7 @@ h5.index-list {
   height: auto;
 }
 
-/* Turn off parallax scrolling for tablets and phones */
+/* Turn off parallax scrolling for phones */
 @media only screen and (max-device-width: 767px) {
   .parallax-bg {
     background-attachment: scroll;
