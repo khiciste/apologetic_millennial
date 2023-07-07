@@ -602,7 +602,14 @@ input[type='text'] {
 
 #bgimg-2 {
   background-image: url("/images/AM_Media\ -\ Landing\ Page-6_writing\ green\ couch.JPG");
-  background-position-y: -300px;
+  /* background-position-y: -300px; */
+}
+
+/* move mark's head up on tablets & up */
+@media only screen and (min-device-width: 768px) {
+  #bgimg-2 {
+    background-position-y: -300px;
+  }
 }
 
 #bgimg-3 {
