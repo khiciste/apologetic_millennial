@@ -773,7 +773,7 @@ h5.index-list {
 
 .blog-tile {
   display: inline-block !important;
-  background-color: rgba(255, 255, 255, 0.6), white;
+  background-color: rgba(255, 255, 255, 0.6) !important;
   margin-bottom: 20px;
   border: 1.5px solid darkslategrey;
   box-shadow: 2px 2px 2px lightgrey;
@@ -802,10 +802,10 @@ h5.index-list {
 /* small screens */
 @media only screen and (max-device-width: 767px) {
   .blog-tile {
-    border: 1px solid darkslategrey;
+    border: 2px solid darkslategrey;
   }
   .blog-tile img {
-    width: 248px;
+    width: 246px;
   }
 }
 
