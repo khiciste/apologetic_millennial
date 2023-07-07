@@ -715,7 +715,8 @@ h5.index-list {
   z-index: 2;
 }
 
-.tile h4 {
+.tile h4,
+.tile h5 {
   color: rgb(33, 33, 33);
   padding-left: 10px; 
 }
