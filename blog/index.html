@@ -6,20 +6,18 @@ title: blog
 <h1>{{ page.title }}</h1>
 
 	<div class="row">
-    <div class="col s12 m9 offset-l1 l8">
-      <ul class="posts">
-
+    <div class="posts tiles">
         {% for post in site.posts %}
           <a href="{{ post.url }}" title="{{ post.title }}">
-            <li class="post-preview-card">
-              <h4>
+            <div class="post-preview-card blog-tile">
+              <img src="{{ post.img }}" />
+              <h5>
                 {{ post.title }}
-              </h4>
+              </h5>
               <p class="black-text">{{ post.date | date_to_string }}</p>
               <!-- » -->
-            </li>
+            </div>
           </a>
         {% endfor %}
-      </ul>
     </div>
   </div>
