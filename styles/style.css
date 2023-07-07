@@ -707,12 +707,14 @@ h5.index-list {
         position:relative;
 }
 
-.tile:hover {
-  -webkit-transform: scale(1.05) !important;
-    -moz-transform: scale(1.05) !important;
-    -o-transform: scale(1.05) !important;
-    transform: scale(1.05) !important;
-  z-index: 2;
+@media only screen and (min-device-width: 768px) {
+  .tile:hover {
+    -webkit-transform: scale(1.05) !important;
+      -moz-transform: scale(1.05) !important;
+      -o-transform: scale(1.05) !important;
+      transform: scale(1.05) !important;
+    z-index: 2;
+  }
 }
 
 .tile h4,
