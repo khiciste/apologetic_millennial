@@ -684,13 +684,13 @@ h5.index-list {
   text-align: left;
 }
 
+/* homepage tiles ---------------- */
+
 .tiles {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: center;
-  max-width: 400px;
 }
 
 .tile {
@@ -698,12 +698,21 @@ h5.index-list {
   background-color: rgb(255, 246, 236);
   border-radius: 2px;
   width: 300px;
+  max-width: 400px;
   margin-bottom: 20px;
-  transition: all .2s ease-in-out; 
+  -webkit-transition: -webkit-transform .15s ease-in-out;
+        -moz-transition: -moz-transform .15s ease-in-out;
+        -o-transition: -o-transform .15s ease-in-out;
+        transition: transform .15s ease-in-out;
+        position:relative;
 }
 
 .tile:hover {
-  transform: scale(1.1);
+  -webkit-transform: scale(1.05) !important;
+    -moz-transform: scale(1.05) !important;
+    -o-transform: scale(1.05) !important;
+    transform: scale(1.05) !important;
+  z-index: 2;
 }
 
 .tile h4 {
@@ -715,7 +724,6 @@ h5.index-list {
   position: relative;
   width: 292px;
   height: auto;
-  /* padding: 2px; */
 }
 
 #why-me-section {
