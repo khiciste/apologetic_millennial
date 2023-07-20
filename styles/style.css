@@ -703,15 +703,58 @@ h5.index-list {
   }
 }
 
-.tile h4,
+.tile-video {
+  border: 4px solid rgb(243, 235, 225);
+  background-color: rgb(255, 246, 236);
+  border-radius: 2px;
+  width: 320px;
+  max-width: 400px;
+  margin-bottom: 20px;
+  padding-left: 5px;
+  -webkit-transition: -webkit-transform .15s ease-in-out;
+        -moz-transition: -moz-transform .15s ease-in-out;
+        -o-transition: -o-transform .15s ease-in-out;
+        transition: transform .15s ease-in-out;
+        position:relative;
+}
+
+@media only screen and (min-device-width: 768px) {
+  .tile-video:hover {
+    -webkit-transform: scale(1.01) !important;
+      -moz-transform: scale(1.01) !important;
+      -o-transform: scale(1.01) !important;
+      transform: scale(1.01) !important;
+    z-index: 2;
+  }
+}
+
+#more-button {
+  background-color: rgb(255, 246, 236);
+  position: relative;
+  right: 0;
+  margin: 10px 0 0 0;
+  font-style: italic;
+  z-index: 1;
+}
+
+#more-button:hover,
+button:hover,
+.button:hover {
+  color: rgb(255, 246, 236);
+  background-color: rgb(0,112,192);
+  border: 2px solid rgb(0,112,192);
+  cursor: pointer;
+  font-weight: normal;
+}
+
+.tile h4{
+  color: rgb(33, 33, 33);
+  text-align: center;
+}
+
 .tile h5 {
   color: rgb(33, 33, 33);
   padding-left: 10px; 
-}
-
-.tile h6{
-  color: rgb(33, 33, 33);
-  text-align: center;
 }
 
 .tile img {
