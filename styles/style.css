@@ -709,6 +709,11 @@ h5.index-list {
   padding-left: 10px; 
 }
 
+.tile h6{
+  color: rgb(33, 33, 33);
+  text-align: center;
+}
+
 .tile img {
   position: relative;
   width: 292px;
