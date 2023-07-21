@@ -218,11 +218,16 @@ header, main, footer {
   width: 100vw;
 }
 
-@media only screen and (max-device-width: 767px) {
-  #banner img {
-    /* need new image with less padding */
-    /* width: 125%;
-    left: -400px; */
+#banner {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(237, 228, 218);
+}
+
+@media only screen and (min-device-width: 768px) {
+  #banner {
+    padding-left: 100px;
+    padding-right: 100px;
   }
 }
 
