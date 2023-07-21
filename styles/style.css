@@ -805,6 +805,9 @@ h5.index-list {
 .big-btn {
   line-height: 22px;
   min-height: 88px;
+  background-color: transparent;
+  color: whitesmoke;
+  border-color: whitesmoke;
 }
 
 .two-lines {
