@@ -218,6 +218,14 @@ header, main, footer {
   width: 100vw;
 }
 
+@media only screen and (max-device-width: 767px) {
+  #banner img {
+    /* need new image with less padding */
+    /* width: 125%;
+    left: -400px; */
+  }
+}
+
 /* #banner {
   color: rgb(243, 235, 225);
   background: rgb(0,112,192);
@@ -792,6 +800,23 @@ h5.index-list {
 #youtube-icon {
   width: 110px;
   height: auto;
+}
+
+.big-btn {
+  line-height: 22px;
+  min-height: 88px;
+}
+
+.two-lines {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 22px 15px !important;
+}
+
+.one-line {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 33px 15px !important;
 }
 
 /* Turn off parallax scrolling for phones */
