@@ -21,13 +21,14 @@ $(document).ready(function(){
   
   // MODAL INITIALIZATION
   $('.modal').modal();
+  $('#newsletter-modal').modal('open'); 
 
   // show color icon on hover
   $('.social-link').hover(function() {
     $(this).children().toggleClass('hide');
   });
 
-  // clear form after submission
+  // clear form after submission -- for mailchimp / formspree? do we still need this?
   window.onbeforeunload = () => {
     for(const form of document.getElementsByTagName('form')) {
       form.reset();
