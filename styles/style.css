@@ -733,10 +733,10 @@ h5.index-list {
 
 @media only screen and (min-device-width: 768px) {
   .tile-video:hover {
-    -webkit-transform: scale(1.01) !important;
-      -moz-transform: scale(1.01) !important;
-      -o-transform: scale(1.01) !important;
-      transform: scale(1.01) !important;
+    -webkit-transform: scale(1.05) !important;
+      -moz-transform: scale(1.05) !important;
+      -o-transform: scale(1.05) !important;
+      transform: scale(1.05) !important;
     z-index: 2;
   }
 }
@@ -757,10 +757,10 @@ h5.index-list {
 
 @media only screen and (min-device-width: 768px) {
   .tile-link:hover {
-    -webkit-transform: scale(1.01) !important;
-      -moz-transform: scale(1.01) !important;
-      -o-transform: scale(1.01) !important;
-      transform: scale(1.01) !important;
+    -webkit-transform: scale(1.05) !important;
+      -moz-transform: scale(1.05) !important;
+      -o-transform: scale(1.05) !important;
+      transform: scale(1.05) !important;
     z-index: 2;
   }
 }
